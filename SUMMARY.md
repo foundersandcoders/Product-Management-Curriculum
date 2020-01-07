@@ -4,9 +4,10 @@
 
 ## Core Modules
 
+* [Discovery Workshop](core-modules/discovery-workshop.md)
+* [Definition Workshop](core-modules/definition-workshop.md)
 * [Build Workshop](core-modules/build-workshop/README.md)
   * [Product Owner](core-modules/build-workshop/product-owner.md)
-* [Glossary](core-modules/glossary.md)
 
 ## Supplementary Modules
 
@@ -14,4 +15,5 @@
 * [SEO](supplementary-modules/seo.md)
 * [Prototyping](supplementary-modules/prototyping.md)
 * [Finding a tech partner](supplementary-modules/finding-a-tech-partner.md)
+* [Glossary](glossary.md)
 

@@ -22,16 +22,16 @@ The curriculum consist of three **core modules** and four optional **supplementa
 
 ### Core Modules 
 
-* Discovery Workshop 
-* Definition Workshop 
+* [Discovery Workshop ](core-modules/discovery-workshop.md)
+* [Definition Workshop ](core-modules/definition-workshop.md)
 * [Build Workshop](core-modules/build-workshop/)
 
 ### Supplementary Modules
 
-* Prototyping 
-* Introduction to SEO 
-* Finding a tech partner 
-* Accessibility 
+* [Accessibility](supplementary-modules/accessibility.md) 
+* [SEO](supplementary-modules/seo.md)
+* [Prototyping](supplementary-modules/prototyping.md) 
+* [Finding a tech partner ](supplementary-modules/finding-a-tech-partner.md)
 
 ## Resources 
 
