@@ -4,5 +4,5 @@ description: An overview of common terms that come up during the product develop
 
 # Glossary
 
-\[Product Owner\]\(../what-is-a-product-owner\)
+[Product Owner](./build-workshop/product-owner.md#<What-is-a-Product-Owner?>)
 
