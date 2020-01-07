@@ -12,6 +12,10 @@ The Product Backlog is a list of everything that is known to be needed in the pr
 
 The Product Owner is a specific one-person role within the Scrum framework, which may be provided by the client or sit within the agency. As the product lead with your charity, you are predestined to act as a PO due to your business know-how and corporate authority. During the build phase, the product owner has [three primary responsibilities](product-owner.md#responsibilities-of-a-product-owner). 
 
+### Product Roadmap 
+
+A product roadmap is a high-level visual summary that maps out the vision and direction of your product offering over time. A product roadmap communicates the why and what behind what you are building. A roadmap is a guiding strategic document as well as a plan for executing the strategy.
+
 ### Scrum Master
 
 A **scrum master** is the facilitator for an Agile development team; they are responsible for managing the process, and only the process. They are not involved in the decision-making, but act as a lodestar to guide the team through the scrum process with their experience and expertise. People filling this role have to lead from a position of influence, often taking a servant-leadership stance.

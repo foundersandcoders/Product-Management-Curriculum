@@ -133,3 +133,58 @@ The PO represents dev team to stakeholders by:
 
 ## Tasks of a Product Owner
 
+### 1. Defining the vision 
+
+To that end, the PO should create a [Product Roadmap,](glossary.md#product-roadmap) which is a high-level, tactical graphical summary that shapes the vision and direction for the product.
+
+### **2. Managing the Product Backlog**
+
+To manage the product backlog, the PO must split the goals into user stories, prioritise these and provide them to the development team during the Sprint Planning. Managing the Product Backlog also includes trimming it, i.e. deciding what not to build. It is essential that the PO knows the backlog and all it's elements. If the developers have questions about the backlog, the PO is responsible for clarifying those details to the team. The product owners job is not to spoon feed user stories but to ensure that everyone understands the overall vision and that there are short feedback loops in terms of frequent deliveries to users.
+
+### 3. Prioritising and anticipating client needs
+
+To this aim, the PO needs to conduct studies like consumer behaviour analyses and research user preferences. These quantitative reports help product owners confirm the patterns they’re observing when studying customer stories.
+
+The product owner should understand the market, the competition, and the users’ pain points. With those valuable pieces of information, the product owner can determine what features should be implemented, and in what order, with respect to time and importance. 
+
+### 4. Overseeing development stages
+
+The PO has to make sure that he/she is participating in the overall development stages of the product. The team might need their PO to get the clarity on a few queries or they might need to demo the committed item.
+
+### 5. Acting as primary liaison
+
+The PO acts as a liaison for business stakeholders and end-users, determining whether each story meets their shared expectations. The person in this role has to make sure the information flow is quick and clear so that there is no interpretation or reading between the lines.
+
+The PO also needs to manage expectations on both ends.
+
+### 6. Evaluating product progress
+
+At each iteration, the PO makes sure that the development delivers the expected outcomes from the stories they worked upon and accepts it.
+
+### 7. Terminating a sprint if necessary 
+
+If the Sprint goal has no meaning \(will not deliver business value\) because of the extreme change, the product owner can terminate the sprint. The termination is most frequently the outcome of an intense change in business priorities  
+
+
+## Requirements of a Product Owner
+
+There are a number of requirements that a PO should fulfil to be effective in their role. These include: 
+
+* **Availability:** The PO needs to be available to the team to do the day-to-day work. He/She must be an active participant in the project - not just a stakeholder waiting for features. 
+* **Decidability:** A PO needs mandate to make decisions. He/she needs to be able to make decisions on the spot when, for instance, answering questions from the team
+* **Accountability:**  A PO is responsible for creating value and manage expectations. The PO must be value oriented.
+* **Knowledgeability:** A PO needs to be knowledgable of the value and the size of different user stories, of the business and how software development works.
+* **Collaboration & Communication:**  A PO need to be committed to the team, a good communicator, have the ability to resolve conflicts. A PO needs to trust the team and the framework.
+
+## Potential challenges of a PO
+
+1. Missing product road map
+2. High-level acceptance criteria
+3. Spending too much time dealing with product support instead of grooming the backlog
+4. Changing priority while sprint is in progress
+
+  
+
+
+
+
