@@ -29,7 +29,7 @@ To this end, the PO must:
 
 The PO must ensure that a Product Backlog exists and is always up to date. The task of writing the Product Backlog can be delegated but the PO must participate in its definition and description. The PO must guide the people who write the Product Backlog. 
 
-The Product Backlog is a list of everything that is known to be needed in the product. It is the single **source of requirements** for any changes to be made to the product. 
+The [Product Backlog](#Product-Backlog) is a list of everything that is known to be needed in the product. It is the single **source of requirements** for any changes to be made to the product. 
 
 The Product Backlog: 
 
