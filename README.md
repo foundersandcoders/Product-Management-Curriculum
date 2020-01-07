@@ -7,7 +7,7 @@ description: >-
 
 # Product Management Curriculum
 
-Developed by [Gregor](https://github.com/Albadylic), [Emmanuel](https://github.com/emaggy), [Susan](https://github.com/susanX), [Leonie](https://github.com/LaLeonie) and [Dan](https://github.com/sofer)
+Developed by [Gregor](https://github.com/Albadylic), [Emmanuel](https://github.com/emaggy), [Susan](https://github.com/susanX), [Leonie](https://github.com/LaLeonie) and [Dan](https://github.com/sofer) in collaboration with CAST and Comic Relief. 
 
 ## Learning Outcomes 
 
