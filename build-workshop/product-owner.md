@@ -139,7 +139,7 @@ To that end, the PO should create a [Product Roadmap,](glossary.md#product-roadm
 
 ### **2. Managing the Product Backlog**
 
-To manage the product backlog, the PO must split the goals into user stories, prioritise these and provide them to the development team during the Sprint Planning. Managing the Product Backlog also includes trimming it, i.e. deciding what not to build. It is essential that the PO knows the backlog and all it's elements. If the developers have questions about the backlog, the PO is responsible for clarifying those details to the team. The product owners job is not to spoon feed user stories but to ensure that everyone understands the overall vision and that there are short feedback loops in terms of frequent deliveries to users.
+To manage the product backlog, the PO must split the goals into [User Stories](glossary.md#user-stories), prioritise these and provide them to the development team during the Sprint Planning. Managing the Product Backlog also includes trimming it, i.e. deciding what not to build. It is essential that the PO knows the backlog and all it's elements. If the developers have questions about the backlog, the PO is responsible for clarifying those details to the team. The product owners job is not to spoon feed user stories but to ensure that everyone understands the overall vision and that there are short feedback loops in terms of frequent deliveries to users.
 
 ### 3. Prioritising and anticipating client needs
 

@@ -44,3 +44,11 @@ A Sprint Review is an informal meeting held at the end of the Sprint to inspect 
 
 Story points are a unit of measure for expressing an estimate of the overall effort that will be required to fully implement a product backlog item or any other piece of work. When we estimate with story points, we assign a point value to each item. The raw values we assign are unimportant. What matters are the _relative values_. A story that is assigned a 2 should be twice as much as a story that is assigned a 1.
 
+### User Stories
+
+User stories are short, simple descriptions of a feature told from the perspective of the person who desires the new capability, usually a user or customer of the system. They typically follow a simple template: 
+
+> As a &lt; type of user &gt;, I want &lt; some goal &gt; so that &lt; some reason &gt;.
+
+
+
