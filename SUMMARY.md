@@ -2,9 +2,14 @@
 
 * [Product Management Curriculum](README.md)
 
-## Build Workshop
+## Core Modules
 
-* [Build Workshop](build-workshop/build-workshop/README.md)
-  * [Product Owner](build-workshop/build-workshop/product-owner.md)
-* [Glossary](build-workshop/glossary.md)
+* [Build Workshop](core-modules/build-workshop/README.md)
+  * [Product Owner](core-modules/build-workshop/product-owner.md)
+* [Glossary](core-modules/glossary.md)
+
+## Supplementary Modules
+
+* [Accessibility](supplementary-modules/accessibility.md)
+* [Finding a tech partner](supplementary-modules/finding-a-tech-partner.md)
 

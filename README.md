@@ -24,7 +24,7 @@ The curriculum consist of three **core modules** and four optional **supplementa
 
 * Discovery Workshop 
 * Definition Workshop 
-* [Build Workshop](build-workshop/build-workshop/)
+* [Build Workshop](core-modules/build-workshop/)
 
 ### Supplementary Modules
 
