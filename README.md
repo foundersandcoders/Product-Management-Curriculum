@@ -35,7 +35,7 @@ The curriculum consist of three **core modules** and four optional **supplementa
 
 ## Resources 
 
-This curriculum uses Tech for Better as its foundation and is complemented by content from Google Design Sprint, The Lean Startup \(Eric Reis\) and Design Kit.Learning Goals. 
+This curriculum uses Tech for Better as its foundation and is complemented by content from Google Design Sprint, The Lean Startup \(Eric Reis\) and Design Kit.
 
 Further resources include: 
 
