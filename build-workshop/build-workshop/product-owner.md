@@ -1,6 +1,6 @@
 ---
 description: >-
-  A short introduction into your role as a product owner (PO) during the build
+  A short introduction to your role as a product owner (PO) during the build
   phase.
 ---
 
@@ -41,7 +41,7 @@ The Product Backlog:
 Steps when creating a Product Backlog: 
 
 1. **Add ideas to the backlog** **\(**based on feedback from dev team, customers, stakeholders\) 
-2. **Get clarification** - ensure you understand the reason behind the item, the value it adds and any specifications of the item, such as [story points](glossary.md#story-point). 
+2. **Get clarification** - ensure you understand the reason behind the item, the value it adds and any specifications of the item, such as [story points](../glossary.md#story-point). 
 3. **Prioritise** - clearly define, high-priority items should be at the top
 4. **Update backlog regularly** and add top items to the next sprint cycle. 
 
@@ -55,7 +55,7 @@ Prioritisation
 
 
 
-![Example Product Backlog](../.gitbook/assets/product-backlog-example%20%282%29.png)
+![Example Product Backlog](../../.gitbook/assets/product-backlog-example%20%282%29.png)
 
 ### 3. Leading & attending regular sprint events
 
@@ -72,7 +72,7 @@ Sprint Planning answers the following:
 
 During this meeting, the PO: 
 
-* proposes a [Sprint Goal](glossary.md#sprint-goal) and defines Product Backlog items that will allow reaching this goal
+* proposes a [Sprint Goal](../glossary.md#sprint-goal) and defines Product Backlog items that will allow reaching this goal
 * should help the dev team understand the Product Backlog items
 * must be willing to negotiate the extend of the Sprint if it exceeds the team's capacity
 {% endtab %}
@@ -97,7 +97,7 @@ The Sprint Review includes the following elements:
 {% endtab %}
 
 {% tab title="Sprint Retrospective" %}
-The Sprint Retrospective is a meeting for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint. It occurs after the Sprint Review and prior to the next [Sprint Planning](glossary.md#sprint-planning). By the end of the Sprint Retrospective, the Scrum Team should have identified improvements that it will implement in the next Sprint.
+The Sprint Retrospective is a meeting for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint. It occurs after the Sprint Review and prior to the next [Sprint Planning](../glossary.md#sprint-planning). By the end of the Sprint Retrospective, the Scrum Team should have identified improvements that it will implement in the next Sprint.
 
 During the Sprint Retrospective, the team discusses:
 
@@ -115,7 +115,7 @@ During the Sprint Retrospective, the team discusses:
 
 The PO mediates between the development team and the stakeholders. In Scrum, a stakeholder is anyone with a vested interest in the product who is not part of the Scrum Team.
 
-![The PO between dev team and stakeholders](../.gitbook/assets/productowner.jpg)
+![The PO between dev team and stakeholders](../../.gitbook/assets/productowner.jpg)
 
 The PO represents stakeholders to dev team by: 
 
@@ -129,17 +129,17 @@ The PO represents dev team to stakeholders by:
 * announcing releases 
 * communicating the team status
 * negotiating priorities, scope and schedule 
-* working closely with the [Scrum Master](glossary.md#scrum-master)
+* working closely with the [Scrum Master](../glossary.md#scrum-master)
 
 ## Tasks of a Product Owner
 
 ### 1. Defining the vision 
 
-To that end, the PO should create a [Product Roadmap,](glossary.md#product-roadmap) which is a high-level, tactical graphical summary that shapes the vision and direction for the product.
+To that end, the PO should create a [Product Roadmap,](../glossary.md#product-roadmap) which is a high-level, tactical graphical summary that shapes the vision and direction for the product.
 
 ### **2. Managing the Product Backlog**
 
-To manage the product backlog, the PO must split the goals into [User Stories](glossary.md#user-stories), prioritise these and provide them to the development team during the Sprint Planning. Managing the Product Backlog also includes trimming it, i.e. deciding what not to build. It is essential that the PO knows the backlog and all it's elements. If the developers have questions about the backlog, the PO is responsible for clarifying those details to the team. The product owners job is not to spoon feed user stories but to ensure that everyone understands the overall vision and that there are short feedback loops in terms of frequent deliveries to users.
+To manage the product backlog, the PO must split the goals into [User Stories](../glossary.md#user-stories), prioritise these and provide them to the development team during the Sprint Planning. Managing the Product Backlog also includes trimming it, i.e. deciding what not to build. It is essential that the PO knows the backlog and all it's elements. If the developers have questions about the backlog, the PO is responsible for clarifying those details to the team. The product owners job is not to spoon feed user stories but to ensure that everyone understands the overall vision and that there are short feedback loops in terms of frequent deliveries to users.
 
 ### 3. Prioritising and anticipating client needs
 
