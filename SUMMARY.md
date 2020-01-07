@@ -11,5 +11,7 @@
 ## Supplementary Modules
 
 * [Accessibility](supplementary-modules/accessibility.md)
+* [SEO](supplementary-modules/seo.md)
+* [Prototyping](supplementary-modules/prototyping.md)
 * [Finding a tech partner](supplementary-modules/finding-a-tech-partner.md)
 
