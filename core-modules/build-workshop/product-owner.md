@@ -1,6 +1,6 @@
 ---
 description: >-
-  A short introduction to the role of a product owner (PO) during the build
+  A short introduction to your role as a product owner (PO) during the build
   phase.
 ---
 
@@ -8,20 +8,7 @@ description: >-
 
 ## What is a Product Owner?
 
-The Product Owner is a specific one-person role within the Scrum framework, which may be provided by the client or sit within the agency. As the product lead within your charity, you are predestined to act as a PO due to your business know-how and corporate authority.
-
-## Product Owner vs Product Managers - What's the difference? 
-
-Although these terms are often used interchangeably, Product Owners and Product Managers are not simply the same role under different names. They are two unique functions.
-
-| **Product Owner** | **Product Manager** |
-| :--- | :--- |
-|  | _“The CEO of the product”_ |
-| tactically focused | strategically focused |
-| manages product backlog | develops product roadmap |
-| focus on translating the product manager’s strategy into actionable tasks | focus on the product’s long-term vision, company objectives, and the market |
-| expert on product backlog and value of the dev team's work | expert on product and customers |
-| Works closely with dev team & stakeholders | Works closely with non-technical teams \(such as sales, marketing, partners and others\) |
+The Product Owner is a specific one-person role within the Scrum framework, which may be provided by the client or sit within the agency. As the product lead with your charity, you are predestined to act as a PO due to your business know-how and corporate authority.
 
 ## Responsibilities of a Product Owner
 
@@ -50,17 +37,6 @@ The Product Backlog:
 * sits **outside the sprint loop** \(meaning it contains work that will not be completed during the current sprint\) but informs how your sprint will be planned 
 * is composed of feedback from **the development team, customer** and **stakeholders**
 * contains **features, functions, requirements, enhancements** and **fixes**
-* should always be visible to the team, management, and customer
-
-Product Backlog items can include **big stories that lack refinement** \(to be completed in the future\) as well as **detailed user stories** \(to be completed immediately\). Items are prioritised according to their size and value: 
-
-* **Higher-priority items** should be refined and have great value to the product.
-* **Mid-priority items** should be candidates for refinement \(the process of detailing each task\)
-* **Low-priority items** should not be a dependency and can be safely ignored until they are candidates for refinement.
-
-The backlog list should include the user story title, priority ranking, and story estimate \(which describes the amount of effort it will take to complete the story\).
-
-![Example Product Backlog](../../.gitbook/assets/product-backlog-example%20%282%29.png)
 
 Steps when creating a Product Backlog: 
 
@@ -70,6 +46,16 @@ Steps when creating a Product Backlog:
 4. **Update backlog regularly** and add top items to the next sprint cycle. 
 
 TIP: Color-code each block to indicate an item is sufficiently refined and ready for sprint planning 
+
+Prioritisation
+
+* **Higher-priority items** should be refined and have great value to the product.
+* **Mid-priority items** should be candidates for refinement \(the process of detailing each task\)
+* **Low-priority items** should not be a dependency and can be safely ignored until they are candidates for refinement.
+
+
+
+![Example Product Backlog](../../.gitbook/assets/product-backlog-example%20%282%29.png)
 
 ### 3. Leading & attending regular sprint events
 
@@ -86,11 +72,9 @@ Sprint Planning answers the following:
 
 During this meeting, the PO: 
 
-* proposes a [Sprint Goal](../../glossary.md#sprint-goal) and defines Product Backlog items that will allow reaching this goal. These items are fed into the [Sprint Backlog](../../glossary.md#sprint-backlog)
+* proposes a [Sprint Goal](../../glossary.md#sprint-goal) and defines Product Backlog items that will allow reaching this goal
 * should help the dev team understand the Product Backlog items
 * must be willing to negotiate the extend of the Sprint if it exceeds the team's capacity
-
-The Sprint Planning results in a Sprint Backlog, which is a subset of the Product Backlog. 
 {% endtab %}
 
 {% tab title="Sprint Review" %}
