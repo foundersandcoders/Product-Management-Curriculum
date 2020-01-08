@@ -1,15 +1,17 @@
 # Table of contents
 
 * [Product Management Curriculum](README.md)
+* [Mentor Notes](mentor-notes.md)
 
 ## Core Modules
 
 * [Discovery Workshop](core-modules/discovery-workshop.md)
-* [Definition Workshop](core-modules/definition-workshop/README.md)
+* [Definition Workshop](core-modules/definition-workshop.md)
   * [User Stories](core-modules/definition-workshop/user-stories.md)
   * [User Stories Workshop](core-modules/definition-workshop/user-stories-workshop.md)
 * [Build Workshop](core-modules/build-workshop/README.md)
   * [Product Owner](core-modules/build-workshop/product-owner.md)
+  * [The Burndown Chart](core-modules/build-workshop/the-burndown-chart.md)
   * [Product Backlog Workshop](core-modules/build-workshop/product-backlog-workshop.md)
 
 ## Supplementary Modules
