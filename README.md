@@ -31,7 +31,7 @@ The curriculum consist of three **core modules** and four optional **supplementa
 * [Accessibility](supplementary-modules/accessibility.md) 
 * [SEO](supplementary-modules/seo.md)
 * [Prototyping](supplementary-modules/prototyping.md) 
-* [Finding a tech partner ](supplementary-modules/finding-a-tech-partner/)
+* [Finding a tech partner ](supplementary-modules/finding-a-tech-partner.md)
 
 ## Resources 
 
