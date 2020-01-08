@@ -1,7 +1,7 @@
 ---
 description: >-
-  Overview of our approach for facilitating and delivering these workshops as
-  well as grouping the participants.
+  Overview of how these workshops ought to be facilitated and delivered and how
+  participants ought to be grouped.
 ---
 
 # Mentor Notes
