@@ -1,2 +1,0 @@
-# Finding a tech partner
-

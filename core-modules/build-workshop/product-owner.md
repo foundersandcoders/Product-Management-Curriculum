@@ -10,6 +10,19 @@ description: >-
 
 The Product Owner is a specific one-person role within the Scrum framework, which may be provided by the client or sit within the agency. As the product lead with your charity, you are predestined to act as a PO due to your business know-how and corporate authority.
 
+## Product Owner vs Product Managers - What's the difference? 
+
+Although these terms are often used interchangeably, Product Owners and Product Managers are not simply the same role under different names. They are two unique function
+
+| **Product Owner** | **Product Manager** |
+| :--- | :--- |
+|  | _“The CEO of the product”_ |
+| tactically focused | strategically focused |
+| manages product backlog | develops product roadmap |
+| focus on translating the product manager’s strategy into actionable tasks | focus on the product’s long-term vision, company objectives, and the market |
+| expert on product backlog and value of the dev team's work | expert on product and customers |
+| Works closely with dev team & stakeholders | Works closely with non-technical teams \(such as sales, marketing, partners and others\) |
+
 ## Responsibilities of a Product Owner
 
 According to the SCRUM documentation, the product owner has three primary responsibilities:
