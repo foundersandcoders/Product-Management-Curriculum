@@ -1,11 +1,11 @@
 ---
 description: >-
   An optional, one-hour workshop to provide product managers with information
-  and guidance on finding  tech partners most suitable to their company and
+  and guidance on finding tech partners most suitable to their company and
   needs.
 ---
 
-# Finding a tech partner
+# Finding the right tech partner
 
 ## Learning Outcomes 
 
