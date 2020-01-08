@@ -19,7 +19,7 @@
 * [Accessibility](supplementary-modules/accessibility.md)
 * [SEO](supplementary-modules/seo.md)
 * [Prototyping](supplementary-modules/prototyping.md)
-* [Finding the right tech partner](supplementary-modules/finding-a-tech-partner/README.md)
+* [Finding the right tech partner](supplementary-modules/finding-a-tech-partner.md)
   * [Searching Phase](supplementary-modules/finding-a-tech-partner/searching-phase.md)
   * [Vetting Phase](supplementary-modules/finding-a-tech-partner/vetting-phase.md)
   * [Tryout Phase](supplementary-modules/finding-a-tech-partner/tryout-phase.md)
