@@ -8,7 +8,7 @@ description: >-
 
 ## What is a Product Owner?
 
-The Product Owner is a specific one-person role within the Scrum framework, which may be provided by the client or sit within the agency. As the product lead with your charity, you are predestined to act as a PO due to your business know-how and corporate authority.
+The Product Owner is a specific one-person role within the Scrum framework, which may be provided by the client or sit within the agency. As the product lead within your charity, you are predestined to act as a PO due to your business know-how and corporate authority.
 
 ## Product Owner vs Product Managers - What's the difference? 
 
