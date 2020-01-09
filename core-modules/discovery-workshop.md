@@ -21,6 +21,15 @@ description: >-
 * Practising composing user research scripts
 * Exploring the problem area and thinking about who is affected
 
+## Required Workshop Material 
+
+* [Discovery Workshop - slide deck](https://docs.google.com/presentation/d/1QqggZGpOMUiS7HB4peRRt1j70UgJTZAQMz4rwmRdvFo/edit#slide=id.gcb9a0b074_1_0)
+* Projector 
+* Post-it notes 
+* Pens
+* Whiteboard
+* [User Persona Sheets ](https://github.com/foundersandcoders/tech-for-better-leads/blob/e7fdc8ab3c20c6000c109ccf33e8ee6406f322fa/userPersonaSheet.pdf)
+
 ## Our Homework
 
 * Encouraging discussion between participants on Slack after the workshop
