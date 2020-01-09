@@ -6,7 +6,7 @@
 ## Core Modules
 
 * [Discovery Workshop](core-modules/discovery-workshop.md)
-* [Definition Workshop](core-modules/definition-workshop/README.md)
+* [Definition Workshop](core-modules/definition-workshop.md)
   * [User Stories](core-modules/definition-workshop/user-stories.md)
   * [User Stories Workshop](core-modules/definition-workshop/user-stories-workshop.md)
 * [Build Workshop](core-modules/build-workshop/README.md)

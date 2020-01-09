@@ -12,7 +12,7 @@ Remember to keep your user stories at the end of this workshop, as you will need
 
 ## **Required material**
 
-* Index cards or Post-It notes
+* **I**ndex cards or Post-It notes
 * pens
 
 ## Workflow 
