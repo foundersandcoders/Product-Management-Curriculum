@@ -21,14 +21,23 @@ description: >-
 * Estimating user stories according to time and priority 
 * Working with a Kanban board
 
-## Workshop Material
+## Required Workshop Material
 
-[Build Workshop slide deck](https://docs.google.com/presentation/d/1V0U3_jqkNn3_1YOeGVJZ7B6Khw9raAqEqOspf9SUBM0/edit#slide=id.g6cb096327a_1_132)
+* [Build Workshop - slide deck](https://docs.google.com/presentation/d/1V0U3_jqkNn3_1YOeGVJZ7B6Khw9raAqEqOspf9SUBM0/edit#slide=id.g6cb096327a_1_132)
+* Projector
+* Project-tracking technology of your choice \(sticky notes, Trello etc.\) 
+* User stories developed during Definition Workshop
+* Index cards or Post-It notes
+* Pens
+* White board 
 
 ## Homework 
 
 * Reviewing a feature on a live product version on Github 
 * Adding an issue to a Kanban board
+
+_We need to conduct a Build workshop so that the charities can do feature review while we do MVP building. The MVP and app review will come together to build an understanding of the role of a Product Manager in the build stage._  
+
 
 ###  
 

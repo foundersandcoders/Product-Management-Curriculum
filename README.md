@@ -30,7 +30,6 @@ The curriculum consist of three **core modules** and four optional **supplementa
 
 * [Accessibility](supplementary-modules/accessibility.md) 
 * [SEO](supplementary-modules/seo.md)
-* [Prototyping](supplementary-modules/prototyping.md) 
 * [Finding a tech partner ](supplementary-modules/finding-a-tech-partner/)
 
 ## Resources 
@@ -40,6 +39,7 @@ This curriculum uses Tech for Better as its foundation and is complemented by co
 Further resources include: 
 
 * [Scrum.org](https://www.scrum.org/)
+* [Scrumguide.org](https://www.scrumguides.org/)
 
 
 

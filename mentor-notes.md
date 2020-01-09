@@ -8,7 +8,7 @@ description: >-
 
 ## Mentoring 
 
-Each workshop should be run by two coaches who take turn in presenting the content and exercises. 
+Each workshop should be run by two facilitators who take turn in presenting the content and exercises. 
 
 Due to the limited resources that charities often face, the workshops should be kept as short as possible. We recommend half a day for each core module. 
 
@@ -33,7 +33,9 @@ We found that previous participants particularly valued the collaborative nature
 
 ## Facilities
 
-We found that the workshop space \(size and layout\) impacts level of collaboration/dialogue between charities. Therefore, we recommend delivering the workshops in a room that allows the participants to move and communicate freely. We also suggest that the room should have a projector and a whiteboard or flip chart. 
+We found that the workshop space \(size and layout\) impacts level of collaboration/dialogue between charities. Therefore, we recommend delivering the workshops in a room that allows the participants to move and communicate freely. We also suggest that the room has a projector or a large screen as well as a whiteboard or flip chart. If this is not available, we recommend that the facilitators bring large white paper for the exercises. 
+
+Facilitators should also bring pens and post-it notes to each workshop. 
 
 ## **Communication** 
 
