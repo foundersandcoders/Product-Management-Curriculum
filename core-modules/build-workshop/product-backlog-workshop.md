@@ -36,7 +36,7 @@ Create a third column on the white board, called **In Progress.** At the top of 
 
 Review the stories in your backlog and place 34 points worth of stories into the In Progress column. You may have to place a lower priority story into the sprint so that you can reach 34 points. Do not go over 34 points. You have just planned for an upcoming sprint!
 
-4. **Refine and scope next sprint**
+#### 4. **Refine and scope next sprint**
 
 Fast forward a few weeks. Pretend your team is about to complete their sprint, and ****it is time to start planning your next sprint! 
 
