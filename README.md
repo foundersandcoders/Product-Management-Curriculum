@@ -1,8 +1,8 @@
 ---
 description: >-
-  A comprehensive curriculum developed by Founders and Coders to train product
-  managers within the third sector and equip them with the skills necessary to
-  lead a product development team.
+  A curriculum developed by Founders and Coders to train product managers within
+  the third sector and equip them with the skills necessary to lead a product
+  development team.
 ---
 
 # Product Management Curriculum
@@ -18,12 +18,12 @@ Developed by [Gregor](https://github.com/Albadylic), [Emmanuel](https://github.c
 
 ## Content 
 
-The curriculum consist of three **core modules** and four optional **supplementary modules.**  The core modules build upon each other and are key to understanding the Product Manager's journey. After these workshops, participants will have understand the skills required throughout the process of building a digital product. 
+The curriculum consist of three **core modules** and four optional **supplementary modules.**  The core modules build upon each other and are key to understanding the Product Manager's journey. Upon completion of these workshops, participants will have understand the skills required throughout the process of building a digital product. 
 
 ### Core Modules 
 
 * [Discovery Workshop ](core-modules/discovery-workshop.md)
-* [Definition Workshop ](core-modules/definition-workshop.md)
+* [Definition Workshop ](core-modules/definition-workshop/)
 * [Build Workshop](core-modules/build-workshop/)
 
 ### Supplementary Modules
@@ -31,7 +31,7 @@ The curriculum consist of three **core modules** and four optional **supplementa
 * [Accessibility](supplementary-modules/accessibility.md) 
 * [SEO](supplementary-modules/seo.md)
 * [Prototyping](supplementary-modules/prototyping.md) 
-* [Finding a tech partner ](supplementary-modules/finding-a-tech-partner.md)
+* [Finding a tech partner ](supplementary-modules/finding-a-tech-partner/)
 
 ## Resources 
 
