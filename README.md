@@ -22,7 +22,7 @@ The curriculum consist of three **core modules** and four optional **supplementa
 
 ### Core Modules 
 
-* [Discovery Workshop ](core-modules/discovery-workshop.md)
+* [Discovery Workshop ](core-modules/discovery-workshop/)
 * [Definition Workshop ](core-modules/definition-workshop/)
 * [Build Workshop](core-modules/build-workshop/)
 

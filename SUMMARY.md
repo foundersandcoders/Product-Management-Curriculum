@@ -5,7 +5,9 @@
 
 ## Core Modules
 
-* [Discovery Workshop](core-modules/discovery-workshop.md)
+* [Discovery Workshop](core-modules/discovery-workshop/README.md)
+  * [The Five Whys](core-modules/discovery-workshop/the-five-whys.md)
+  * [The Bigger Picture](core-modules/discovery-workshop/the-bigger-picture.md)
 * [Definition Workshop](core-modules/definition-workshop/README.md)
   * [User Stories](core-modules/definition-workshop/user-stories.md)
   * [User Stories Workshop](core-modules/definition-workshop/user-stories-workshop.md)
