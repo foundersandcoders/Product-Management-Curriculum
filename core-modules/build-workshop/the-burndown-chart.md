@@ -33,8 +33,6 @@ It tracks values along two axis:
 
 To create this graph, determine how much work remains by summing the Sprint Backlog estimates \(i.e. story points\) every day of the Sprint. The amount of work remaining for a Sprint is the sum of the work remaining for the whole Sprint Backlog. Keep track of these sums by day and use them to create a graph that shows the work remaining over time.
 
-#### Steps for creating a burndown chart 
-
 #### \*\*\*\*
 
 \*\*\*\*
