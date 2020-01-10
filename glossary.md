@@ -106,6 +106,12 @@ User stories are short, simple descriptions of a feature told from the perspecti
 
 User testing is the process through which the interface and functions of a website, app, product, or service are tested by real users who perform specific tasks in realistic conditions. The purpose of this process is to evaluate the usability of that website or app and to decide whether the product is ready to be launched for real users.
 
+### Velocity
+
+Velocity is a measure of the amount of work a Team can tackle during a single Sprint and is the key metric in Scrum. Velocity is calculated by totaling the Story Points for all fully completed User Stories during a sprint. After a few Sprints the velocity of a Scrum Team will most likely be predictable and would allow quite accurate estimation about the time needed until all entries in the Scrum Product Backlog will be completed
+
+An import rule for calculating the velocity is that only stories that are completed at the end of the iteration are counted. Counting partially finished work \(e.g. coding only - test missing\) is strictly forbidden
+
 ### 
 
 
