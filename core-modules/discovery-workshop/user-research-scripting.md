@@ -24,7 +24,18 @@ User research allows Product Managers to test the assumptions they have before e
 
 ### Tips
 
+* Keep it short
+* Be prepared and specific
+* Look for stories
+* Listen, don’t talk
+* Be confidential
+* Be mindful about diversity
+* Ask permission before the interview
+* Avoid any bias
+* Don’t ask questions about the future
+* Don’t pressure the interviewee
+
 ### Collaboration
 
-* Read to one another 
+During workshops, we ask a Product Manager to give their script to someone else and this person shall read the questions back to the Product Manager. This allows the Product Manager to understand how their questions sound and are phrased from the perspective of the user. They need not answer the questions but can make notes on phrasing, assumptions or things they think they might be missing. 
 
