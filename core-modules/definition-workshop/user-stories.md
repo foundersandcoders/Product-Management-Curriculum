@@ -33,6 +33,8 @@ Good user stories follow the INVEST model:
 ## Prioritising user stories
 
 The high priority stories affect the most users or procure the highest value data.
+<img src="https://www.dropbox.com/s/nzmqglv044f01pc/yep.png?raw=1" alt="icon" width="30"
+         height="30">
 
   
 
