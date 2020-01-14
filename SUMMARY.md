@@ -12,6 +12,7 @@
   * [Assumptions Table](core-modules/discovery-workshop/assumptions-table.md)
   * [Assumptions to Questions](core-modules/discovery-workshop/assumptions-to-questions.md)
   * [Common Areas](core-modules/discovery-workshop/common-areas.md)
+  * [User Personas](core-modules/discovery-workshop/user-personas.md)
   * [User Research Scripting](core-modules/discovery-workshop/user-research-scripting.md)
 * [Definition Workshop](core-modules/definition-workshop/README.md)
   * [User Stories](core-modules/definition-workshop/user-stories.md)

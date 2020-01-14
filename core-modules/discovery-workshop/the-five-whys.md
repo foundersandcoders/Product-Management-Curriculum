@@ -27,3 +27,7 @@ Pen and paper to note the responses.
 3. The interviewer will ask a question starting with "why..." that will examine the deeper motivations behind the goal.
 4. The interviewer should ask four or more why questions.
 
+### Collaboration
+
+This workshop is useful for introducing participants to an inquisitive mindset. We found that conducting this workshop before The Bigger Picture increased the level of depth that Questioners went into in the next workshop. When conducting the Five Whys with a larger group, asking all participants to ask one question to the Product Manager will share responsibility and give more unique perspectives. 
+
