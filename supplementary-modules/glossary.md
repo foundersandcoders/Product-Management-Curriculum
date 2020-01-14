@@ -28,7 +28,7 @@ A problem statement is one line that recasts the idea in human terms of what the
 
 ### Product Backlog
 
-The Product Backlog is a list of everything that is known to be needed in the product. It is the single **source of requirements** for any changes to be made to the product. The Product Owner is responsible for [managing the Product Backlog](core-modules/build-workshop/product-owner.md#2-managing-the-product-backlog). 
+The Product Backlog is a list of everything that is known to be needed in the product. It is the single **source of requirements** for any changes to be made to the product. The Product Owner is responsible for [managing the Product Backlog](../core-modules/build-workshop/product-owner.md#2-managing-the-product-backlog). 
 
 ### Product Manager 
 
@@ -36,7 +36,7 @@ The Product Manager creates the vision and direction for the product and then de
 
 ### Product Owner
 
-The Product Owner is a specific one-person role within the Scrum framework, which may be provided by the client or sit within the agency. As the product lead with your charity, you are predestined to act as a PO due to your business know-how and corporate authority. During the build phase, the product owner has [three primary responsibilities](core-modules/build-workshop/product-owner.md#responsibilities-of-a-product-owner). As opposed to Product Managers, Product Owners are more tactical. They translate the product manager’s strategy into actionable tasks, and work with cross-functional agile teams to make sure they are executing on those requirements.
+The Product Owner is a specific one-person role within the Scrum framework, which may be provided by the client or sit within the agency. As the product lead with your charity, you are predestined to act as a PO due to your business know-how and corporate authority. During the build phase, the product owner has [three primary responsibilities](../core-modules/build-workshop/product-owner.md#responsibilities-of-a-product-owner). As opposed to Product Managers, Product Owners are more tactical. They translate the product manager’s strategy into actionable tasks, and work with cross-functional agile teams to make sure they are executing on those requirements.
 
 ### Product Roadmap 
 
@@ -70,7 +70,7 @@ The Sprint Goal is an objective to be met by the Sprint through the implementati
 
 ### Sprint Planning 
 
-Sprint Planning is a regular event in the Scrum framework where the team determines the Product Backlog items they will work on during that sprint and discusses their initial plan for completing those product backlog items. Sprint Planning is time-boxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter. The PO is responsible for [leading the Sprint Planning](core-modules/build-workshop/product-owner.md#3-leading-and-attending-regular-sprint-events). 
+Sprint Planning is a regular event in the Scrum framework where the team determines the Product Backlog items they will work on during that sprint and discusses their initial plan for completing those product backlog items. Sprint Planning is time-boxed to a maximum of eight hours for a one-month Sprint. For shorter Sprints, the event is usually shorter. The PO is responsible for [leading the Sprint Planning](../core-modules/build-workshop/product-owner.md#3-leading-and-attending-regular-sprint-events). 
 
 ### Sprint Retrospective 
 
@@ -78,7 +78,7 @@ The Sprint Retrospective is a meeting for the Scrum Team to inspect itself and c
 
 ### Sprint Review 
 
-A Sprint Review is an informal meeting held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed. It is at most a four-hour meeting for one-month Sprints. For shorter Sprints, the event is usually shorter. The Sprint Review is [led by the PO](core-modules/build-workshop/product-owner.md#3-leading-and-attending-regular-sprint-events). 
+A Sprint Review is an informal meeting held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed. It is at most a four-hour meeting for one-month Sprints. For shorter Sprints, the event is usually shorter. The Sprint Review is [led by the PO](../core-modules/build-workshop/product-owner.md#3-leading-and-attending-regular-sprint-events). 
 
 ### Story Points 
 

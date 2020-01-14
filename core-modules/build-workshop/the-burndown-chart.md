@@ -22,7 +22,7 @@ It should be a regular part of Scrum meetings.
 
 ### How?
 
-The burndown chart is usually based on [velocity](../../glossary.md#velocity) and [story points](../../glossary.md#story-points).  Only stories that are **complete** may count towards the “burn”. 
+The burndown chart is usually based on [velocity](../../supplementary-modules/glossary.md#velocity) and [story points](../../supplementary-modules/glossary.md#story-points).  Only stories that are **complete** may count towards the “burn”. 
 
 It tracks values along two axis:  
 

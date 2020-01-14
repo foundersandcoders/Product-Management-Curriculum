@@ -16,7 +16,7 @@ This exercise is intended to train product owners in prioritising a list of user
 
 ## Workflow 
 
-#### 1. Add [story points](../../glossary.md#story-points) to your user stories 
+#### 1. Add [story points](../../supplementary-modules/glossary.md#story-points) to your user stories 
 
 Create two columns on a white board: **New** and **Backlog.** 
 

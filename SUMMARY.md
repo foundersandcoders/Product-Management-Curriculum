@@ -12,7 +12,8 @@
   * [Assumptions Table](core-modules/discovery-workshop/assumptions-table.md)
   * [Assumptions to Questions](core-modules/discovery-workshop/assumptions-to-questions.md)
   * [Common Areas](core-modules/discovery-workshop/common-areas.md)
-  * [User Personas](core-modules/discovery-workshop/user-personas.md)
+  * [User Personas](core-modules/discovery-workshop/user-personas/README.md)
+    * [Resources](core-modules/discovery-workshop/user-personas/resources.md)
   * [User Research Scripting](core-modules/discovery-workshop/user-research-scripting.md)
 * [Definition Workshop](core-modules/definition-workshop/README.md)
   * [User Stories](core-modules/definition-workshop/user-stories.md)
@@ -31,5 +32,5 @@
   * [Vetting Phase](supplementary-modules/finding-a-tech-partner/vetting-phase.md)
   * [Tryout Phase](supplementary-modules/finding-a-tech-partner/tryout-phase.md)
   * [Expectation Management](supplementary-modules/finding-a-tech-partner/expectation-management.md)
-* [Glossary](glossary.md)
+* [Glossary](supplementary-modules/glossary.md)
 

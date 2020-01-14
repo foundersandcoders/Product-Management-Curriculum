@@ -4,7 +4,7 @@ description: Introduction to user stories and how to write them effectively.
 
 # User Stories
 
-User Stories ****are the building blocks of Agile projects and represent the fundamental unit of communication and tracking progress. An Agile process is driven by the completion of stories, each of which provides tangible, demonstrable value to the user/customer/stakeholder. A sprint consists of a set of conscientiously prioritised stories. 
+User Stories _\*\*_are the building blocks of Agile projects and represent the fundamental unit of communication and tracking progress. An Agile process is driven by the completion of stories, each of which provides tangible, demonstrable value to the user/customer/stakeholder. A sprint consists of a set of conscientiously prioritised stories.
 
 ## Format
 
@@ -20,7 +20,7 @@ It's best to use a format for each story that identifies **who** the user is, **
 
 ## Keys to a valuable user story
 
-Good user stories follow the INVEST model: 
+Good user stories follow the INVEST model:
 
 * **Independent** 
 * **Negotiable** 
@@ -32,10 +32,5 @@ Good user stories follow the INVEST model:
 
 ## Prioritising user stories
 
-The high priority stories affect the most users or procure the highest value data.
-<img src="https://www.dropbox.com/s/nzmqglv044f01pc/yep.png?raw=1" alt="icon" width="30"
-         height="30">
-
-  
-
+The high priority stories affect the most users or procure the highest value data. ![icon](https://www.dropbox.com/s/nzmqglv044f01pc/yep.png?raw=1)
 
