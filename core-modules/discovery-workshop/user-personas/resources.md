@@ -6,5 +6,5 @@ description: Additional resources
 
 
 
-{% file src="../../../.gitbook/assets/userpersonasheet.pdf" caption="User Persona Template" %}
+{% file src="../../../.gitbook/assets/userpersonasheet \(1\).pdf" caption="User Persona Template" %}
 

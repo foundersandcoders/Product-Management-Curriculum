@@ -26,7 +26,7 @@ Paper and Pen.
 
 | **Assumption** | **Validated If** |
 | :--- | :--- |
-| Our users want to use a chat room. | There are a number of posts on the app message board. |
+| Our users want to use a chat room. | There are at least 15 posts on the app message board each day. |
 
 This workshop can link directly to the Assumptions to Questions Workshop.
 
