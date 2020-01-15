@@ -22,7 +22,7 @@ Post-its
 2. One at a time, each Product Manager should then add all the Post-its to a board where everybody in the room can see. 
 3. As a group, the Product Managers should re-arrange the Post-its into groups based on commonality.
 4. Now, name the themes, identifying what it is that links the Post-its in each group. This should be done as a group with the Product Manager leading. Other Product Managers can suggest different phrasing or highlight where an observation seems out of place.
-5. Create a statement for each group that would transform the theme into a core insight. This should encompass all of the data, observations and quotes within the group.
+5. Create a statement for each group that would transform the theme into a core insight. This should encompass all of the data, observations and quotes within the group. It should also read differently to the quotes, observations and data from which it came - the insight statement should be a broad analysis of the detailed research. 
 6. Now, repeat steps 3 to 5 for each Product Manager's research.
 
 ### Collaboration
