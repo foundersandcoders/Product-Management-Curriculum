@@ -24,7 +24,7 @@ Developed by [Gregor](https://github.com/Albadylic), [Emmanuel](https://github.c
 
 ## Content 
 
-The curriculum consist of three **core modules** and four optional **supplementary modules.** The core modules build upon each other and are key to understanding the Product Manager's journey. Upon completion of these workshops, participants will have understand the skills required throughout the process of building a digital product. 
+The curriculum consist of three **core modules** and four optional **supplementary modules.** The core modules build upon each other and are key to understanding the Product Manager's journey. Upon completion of these workshops, participants will understand the skills required throughout the process of building a digital product. 
 
 ### Core Modules 
 
