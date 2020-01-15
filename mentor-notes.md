@@ -4,9 +4,9 @@ description: >-
   participants should be grouped.
 ---
 
-# Mentor Notes
+# Facilitator Notes
 
-## Mentoring 
+## Facilitator
 
 Each workshop should be run by two facilitators who take turn in presenting the content and exercises. 
 

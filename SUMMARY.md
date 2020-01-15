@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Product Management Curriculum](README.md)
-* [Mentor Notes](mentor-notes.md)
+* [Facilitator Notes](mentor-notes.md)
 
 ## Core Modules
 
