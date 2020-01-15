@@ -60,7 +60,7 @@ Product Backlog items can include **big stories that lack refinement** \(to be c
 
 The backlog list should include the user story title, priority ranking, and story estimate \(which describes the amount of effort it will take to complete the story\).
 
-![Example Product Backlog](../../.gitbook/assets/product-backlog-example%20%282%29.png)
+![Example Product Backlog](../../.gitbook/assets/product-backlog-example.png)
 
 Steps when creating a Product Backlog: 
 
