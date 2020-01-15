@@ -14,7 +14,13 @@ Developed by [Gregor](https://github.com/Albadylic), [Emmanuel](https://github.c
 * Understand the product development cycle from discovery and definition to build phase
 * Understand the role and responsibilities of a product manager and a product owner 
 * Understand Scrum and agile
-* Learn methods and techniques that facilitate user-centred, consesus-driven decision making in definition, discovery and build phase
+* Learn methods and techniques that facilitate user-centred, consensus-driven decision making in definition, discovery and build phase
+
+## Goals
+
+* Improve the skills of Product Managers 
+* Build the capacity of a charitable organisations \(and the charity sector\). 
+* Foster collaboration between charitable organisations and Product Managers
 
 ## Content 
 
