@@ -5,7 +5,7 @@ description: >-
   development team.
 ---
 
-# Product Management Curriculum
+# Catalyst Product Management Curriculum
 
 Developed by [Gregor](https://github.com/Albadylic), [Emmanuel](https://github.com/emaggy), [Susan](https://github.com/susanX), [Leonie](https://github.com/LaLeonie) and [Dan](https://github.com/sofer) in collaboration with CAST and Catalyst. 
 

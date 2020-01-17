@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Product Management Curriculum](README.md)
+* [Catalyst Product Management Curriculum](README.md)
 * [Facilitator Notes](mentor-notes.md)
 
 ## Core Modules
