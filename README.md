@@ -13,7 +13,7 @@ Developed by [Gregor](https://github.com/Albadylic), [Emmanuel](https://github.c
 
 * Understand the product development cycle from discovery and definition to build phase
 * Understand the role and responsibilities of a Product Manager and a product owner 
-* Understand Scrum and agile
+* Understand Scrum and Agile
 * Learn methods and techniques that facilitate user-centred, consensus-driven decision making in definition, discovery and build phase
 
 ## Goals
