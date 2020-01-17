@@ -1,6 +1,6 @@
 ---
 description: >-
-  A short introduction to the role of a product owner (PO) during the build
+  A short introduction to the role of a Product Owner (PO) during the build
   phase.
 ---
 
