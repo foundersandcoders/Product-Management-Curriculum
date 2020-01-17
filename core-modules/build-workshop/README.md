@@ -23,7 +23,9 @@ description: >-
 
 ## Required Workshop Material
 
-* [Build Workshop - slide deck](https://docs.google.com/presentation/d/1V0U3_jqkNn3_1YOeGVJZ7B6Khw9raAqEqOspf9SUBM0/edit#slide=id.g6cb096327a_1_132)
+* [Build Workshop - slide deck]
+(https://docs.google.com/presentation/d/1neOdTlTX6AU8ow-ZfBzS3cpRnfr7q41ntojN1r1Lbu4/edit#slide=id.g766ac91c40_0_9)
+
 * Projector
 * Project-tracking technology of your choice \(sticky notes, Trello etc.\) 
 * User stories developed during Definition Workshop
