@@ -1,6 +1,6 @@
 ---
 description: >-
-  This exercise will look at the assumptions a product manager is making about
+  This exercise will look at the assumptions a Product Manager is making about
   their users, the problem area or the product they're making.
 ---
 
@@ -26,7 +26,7 @@ Paper and Pen.
 
 | **Assumption** | **Validated If** |
 | :--- | :--- |
-| Our users want to use a chat room. | There are at least 15 posts on the app message board each day. |
+| Our users want to use a chat room. | There are over 15 posts on the app message board each day. |
 
-This workshop can link directly to the Assumptions to Questions Workshop.
+This workshop can link directly to the [Assumptions to Questions](assumptions-to-questions.md) Workshop.
 

@@ -1,6 +1,6 @@
 ---
 description: >-
-  A curriculum developed by Founders and Coders to train product managers within
+  A curriculum developed by Founders and Coders to train Product Managers within
   the third sector and equip them with the skills necessary to lead a product
   development team.
 ---
@@ -12,7 +12,7 @@ Developed by [Gregor](https://github.com/Albadylic), [Emmanuel](https://github.c
 ## Learning Outcomes 
 
 * Understand the product development cycle from discovery and definition to build phase
-* Understand the role and responsibilities of a product manager and a product owner 
+* Understand the role and responsibilities of a Product Manager and a product owner 
 * Understand Scrum and agile
 * Learn methods and techniques that facilitate user-centred, consensus-driven decision making in definition, discovery and build phase
 

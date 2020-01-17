@@ -8,7 +8,7 @@ description: >-
 
 ### Introduction
 
-This exercise will turn a measure for validating assumptions into a question that can be brought to users. The exercise is straightforward and helps flesh out a user research script.
+This exercise will turn assumptions into questions that can be used in User Research. The exercise is straightforward and helps flesh out a user research script.
 
 This could be combined with the Assumptions Table exercise to create a table with three columns. However, we find that thinking about this in two steps will help focus the measures of validation and ensure the questions directly address the assumption. 
 
@@ -18,9 +18,9 @@ Paper and Pen.
 
 ### Workflow
 
-1. This exercise is fairly simple. We start by taking an already formulated list of assumptions and criteria for validation.
-2. Provide an example for how this may be rephrased as a question. 
-3. Ask the participants to convert their validation criteria into questions. 
+1. This exercise is fairly simple. We start by taking an already formulated list of assumptions.
+2. Participants should be provided with an example for how this may be rephrased as a question. 
+3. Ask the participants to convert their assumptions into questions by thinking about how to validate the assumptions. 
 
 ### Example
 

@@ -11,7 +11,7 @@ This exercise is intended to train product owners in prioritising a list of user
 ## **Required material**
 
 * Project-tracking technology of your choice \(sticky notes, Trello etc.\) 
-* User stories developed during Definiton Workshop
+* User stories developed during [Definiton Workshop](../definition-workshop/README.md)
 * White board \(if using sticky notes\) 
 
 ## Workflow 
