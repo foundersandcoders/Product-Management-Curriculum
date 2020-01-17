@@ -19,4 +19,21 @@ description: >-
 
 ## Feedback
 
+[Discovery Workshop Feedback](https://docs.google.com/document/d/1D-HZo9-Ry6A9TLnFf2rTP9jiMZzlhNMIauLF33EfLp8/edit)
+
+[Notes from Documentors for Discovery Workshop](https://docs.google.com/document/d/1cKd7aDl2OUIeC33p91Ck__gtFpEpIK5AZpOb_P4Pig0/edit?usp=sharing)
+
+
 ## Proposals
+
+[Proposed Circles: Tech vs Abuse](https://docs.google.com/document/d/1YjY463Ms2DFUOlbY03K5CSqP7oUyeA3YAZNxSqVsVIY/edit)
+
+[Product Management Curriculum](https://docs.google.com/document/d/1OnxpwM6IDHRVUtu97lbgHGCbWE9bZ-Ei6hO2WkvQLmk/edit?usp=sharing)
+
+## Supplementing Documents
+
+[Getting started on Slack](https://docs.google.com/document/d/1cFVKr1KBoQXoOpvd308tFuTkoH19FuUUOSmxLJnP4hg/edit?usp=sharing)
+
+[Participant Capacity Form](https://airtable.com/shrthZtfC9f96KVed)
+
+[Discovery Feedback Form](https://airtable.com/shrpT77HCmTD8ss7h)
