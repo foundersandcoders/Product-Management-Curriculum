@@ -1,13 +1,13 @@
 ---
 description: >-
-  Four-hour workshop to learn how to be an effective product owner during the
+  Four-hour workshop to learn how to be an effective product owner* during the
   build sprint and to prepare participants for the collaboration with their tech
   partner.
 ---
 
 # Build Workshop
 
-## Learning Outcomes 
+## Learning Outcomes
 
 * understand the role, responsibilities and tasks of a Product Owner 
 * become familiar with Github and understand how to use it as a Product Owner 
@@ -31,15 +31,10 @@ description: >-
 * Pens
 * White board 
 
-## Homework 
+## Homework
 
 * Reviewing a feature on a live product version on Github 
 * Adding an issue to a Kanban board
 
-_We need to conduct a Build workshop so that the charities can do feature review while we do MVP building. The MVP and app review will come together to build an understanding of the role of a Product Manager in the build stage._  
-
-
-###  
-
-
+_We need to conduct a Build workshop so that the charities can do feature review while we do MVP building. The MVP and app review will come together to build an understanding of the role of a Product Manager in the build stage._
 
