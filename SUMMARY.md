@@ -2,6 +2,7 @@
 
 * [Catalyst Product Management Curriculum](README.md)
 * [Facilitator Notes](mentor-notes.md)
+* [Supplementary Resources](resources.md)
 
 ## Core Modules
 
