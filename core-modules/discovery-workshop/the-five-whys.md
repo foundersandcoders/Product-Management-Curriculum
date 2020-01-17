@@ -29,5 +29,5 @@ Pen and paper to note the responses.
 
 ### Collaboration
 
-This workshop is useful for introducing participants to an inquisitive mindset. We found that conducting this workshop before The Bigger Picture increased the level of depth that Questioners went into in the next workshop. When conducting the Five Whys with a larger group, asking all participants to ask one question to the Product Manager will share responsibility and give more unique perspectives. 
+This workshop is useful for introducing participants to an inquisitive mindset. We found that conducting this workshop before [The Bigger Picture](the-bigger-picture.md) increased the level of depth that Questioners went into in the next workshop. When conducting the Five Whys with a larger group, asking all participants to ask one question to the Product Manager will share responsibility and give more unique perspectives. 
 

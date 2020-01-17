@@ -94,7 +94,7 @@ User personas are representations of clusters of users with similar needs, goals
 
 ### User Research 
 
-User research is conducted so as to understand users’ characteristics, aims, and behaviours towards achieving their aims. User research helps place people at the centre of your design process and your products.
+User Research is conducted so as to understand users’ characteristics, aims, and behaviours towards achieving their aims. User Research helps place people at the centre of your design process and your products.
 
 ### User Stories
 

@@ -10,7 +10,7 @@ The information in this section can be used to inform Product Managers about con
 
 ### What?
 
-During the Discovery Phase, the key goal is to do exploratory research. User research is about trying to get to the core of what a user is trying to do and what their problems are.
+During the Discovery Phase, the key goal is to do exploratory research. User Research is about trying to get to the core of what a user is trying to do and what their problems are.
 
 This can involve: one-on-one interviews, focus groups, steering groups or group interviews. 
 
@@ -26,13 +26,13 @@ At least three user research interviews should be conducted in order to get valu
 
 ### Why?
 
-User research is conducted so as to understand users’ characteristics, aims, and behaviours towards achieving their aims. 
+User Research is conducted so as to understand users’ characteristics, aims, and behaviours towards achieving their aims. 
 
-User research is about learning what a user is trying to do and understanding what is and isn’t working for them. It’s not about asking them what they want.
+User Research is about learning what a user is trying to do and understanding what is and isn’t working for them. It’s not about asking them what they want.
 
-User research allows Product Managers to test the assumptions they have before embarking on Design or Prototyping work.
+User Research allows Product Managers to test the assumptions they have before embarking on Design or Prototyping work.
 
-User research helps place users at the centre of the Design process and your products. Product Managers should be encouraged to advocate for their users. 
+User Research helps place users at the centre of the Design process and your products. Product Managers should be encouraged to advocate for their users. 
 
 ### Tips
 
@@ -59,5 +59,5 @@ During our Workshops, we'd usually ask first that the participants look back to 
 
 Next, we'd ask Product Managers to think more broadly about what they'd like to ask their users. Thinking about their user persona, technology and behaviours. 
 
-Finally, we bring the table together in a discussion of common areas and whether there are questions which could be shared between Product Managers. If there are, it's great to encourage Product Managers to communicate with each other about the answers to these over Slack before the next workshop.
+Finally, we bring the table together in a discussion of [common areas](common-areas.md) and whether there are questions which could be shared between Product Managers. If there are, it's great to encourage Product Managers to communicate with each other about the answers to these over Slack before the next workshop.
 
