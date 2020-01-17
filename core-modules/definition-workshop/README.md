@@ -25,7 +25,7 @@ description: >-
 
 ## Required Workshop Material 
 
-* [Definition Workshop - Slide Deck](https://docs.google.com/presentation/d/1RMa6UYjsi9XvO0UPfaa3dc8r1jYNy_-IbNYVv1n3xnU/edit#slide=id.g75dacec10e_0_203)
+* [Definition Workshop - Slide Deck](https://docs.google.com/presentation/d/1Ckg3u_tzKaFsHdM_Ocp7HsZ97GRgFLcjG_8Dv3IL5p0/edit?usp=sharing)
 * Projector
 * Index cards or Post-it notes
 * Pens
