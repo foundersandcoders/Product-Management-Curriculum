@@ -18,7 +18,7 @@ _I would like a way to..._
 
 _So I can..._
 
-This should be explained as:
+This can be explained as:
 
 _THE USER_ would like a way to _DO SOMETHING \(THAT ADDRESSES THEIR NEED\)_ so that _SOMETHING HAPPENS \(THAT BENEFITS THEM\)_.
 
@@ -37,5 +37,5 @@ Paper and pen
 1. The Product Managers should be presented with the structure of a problem statement.
 2. Give an example of a problem statement to the Product Managers. 
 3. Ask the Product Managers to formulate their own problem statements. 
-4. After giving enough time to formulate these. Read them back to the group and allow other Product Managers to offer advice on each problem statement. 
+4. After giving enough time to formulate these ask participants to read them back to the group and allow other Product Managers to offer advice on each problem statement. 
 
