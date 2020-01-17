@@ -19,7 +19,7 @@ Although these terms are often used interchangeably, Product Owners and Product 
 |  | _“The CEO of the product”_ |
 | tactically focused | strategically focused |
 | manages product backlog | develops product roadmap |
-| focus on translating the product manager’s strategy into actionable tasks | focus on the product’s long-term vision, company objectives, and the market |
+| focus on translating the Product Manager’s strategy into actionable tasks | focus on the product’s long-term vision, company objectives, and the market |
 | expert on product backlog and value of the dev team's work | expert on product and customers |
 | Works closely with dev team & stakeholders | Works closely with non-technical teams \(such as sales, marketing, partners and others\) |
 

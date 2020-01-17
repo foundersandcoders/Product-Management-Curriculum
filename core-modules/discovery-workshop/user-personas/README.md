@@ -24,7 +24,7 @@ We provide a template for Product Managers to use in generating a user persona.
 2. Including a picture of the user will help the Product Manager to visualise and make real their user.
 3. They should include a descriptor which makes clear what is unique about this user.
 4. Asking Product Managers to give a quote from the perspective of their user will help them get into the frame of mind of the person.
-5. The next section asks 'Who is it?' - this encourages the product manager to consider the demographic their user is from. Thinking about profession, age, and location are useful ways to realise the user. 
+5. The next section asks 'Who is it?' - this encourages the Product Manager to consider the demographic their user is from. Thinking about profession, age, and location are useful ways to realise the user. 
 6. The Product Managers should fill in the user's goals and their attitude. This will encourage thought about motivations as well as points of view.
 7. The final section asks the Product Manager to think of the user's behaviours - what do they do? This includes how they might use the site or service as well as how they make decisions or what products they might use already. 
 

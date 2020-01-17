@@ -10,7 +10,7 @@ Agile product management is an iterative process. It’s based on gathering user
 
 ### GitHub 
 
-GitHub is a code hosting platform for version control and collaboration. Projects can be hosted on the site and developers and product managers can view repositories of code and collaborate on them.
+GitHub is a code hosting platform for version control and collaboration. Projects can be hosted on the site and developers and Product Managers can view repositories of code and collaborate on them.
 
 ### Issues
 
@@ -36,7 +36,7 @@ The Product Manager creates the vision and direction for the product and then de
 
 ### Product Owner
 
-The Product Owner is a specific one-person role within the Scrum framework, which may be provided by the client or sit within the agency. As the product lead with your charity, you are predestined to act as a PO due to your business know-how and corporate authority. During the build phase, the product owner has [three primary responsibilities](../core-modules/build-workshop/product-owner.md#responsibilities-of-a-product-owner). As opposed to Product Managers, Product Owners are more tactical. They translate the product manager’s strategy into actionable tasks, and work with cross-functional agile teams to make sure they are executing on those requirements.
+The Product Owner is a specific one-person role within the Scrum framework, which may be provided by the client or sit within the agency. As the product lead with your charity, you are predestined to act as a PO due to your business know-how and corporate authority. During the build phase, the product owner has [three primary responsibilities](../core-modules/build-workshop/product-owner.md#responsibilities-of-a-product-owner). As opposed to Product Managers, Product Owners are more tactical. They translate the Product Manager’s strategy into actionable tasks, and work with cross-functional agile teams to make sure they are executing on those requirements.
 
 ### Product Roadmap 
 

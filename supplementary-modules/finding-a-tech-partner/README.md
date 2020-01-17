@@ -1,6 +1,6 @@
 ---
 description: >-
-  An optional, one-hour workshop to provide product managers with information
+  An optional, one-hour workshop to provide Product Managers with information
   and guidance on finding tech partners most suitable to their company and
   needs.
 ---

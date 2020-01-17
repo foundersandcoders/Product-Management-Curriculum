@@ -1,6 +1,6 @@
 ---
 description: >-
-  This exercise will look at the assumptions a product manager is making about
+  This exercise will look at the assumptions a Product Manager is making about
   their users, the problem area or the product they're making.
 ---
 

@@ -10,7 +10,7 @@ description: >-
 
 The Five Whys exercise is intended to get to the core of the Product Manager's goal or motivations. By being asked Why-based questions, the Product Manager will begin to think of the underlying reasons for their beliefs and shall reach some key insights.
 
-The questions should go deeper into the problem area rather than horizontally \(i.e. 'Why else...'\). By the fourth or fifth question, the product manager should be giving answers which reflect the deep principles surrounding their problem area.
+The questions should go deeper into the problem area rather than horizontally \(i.e. 'Why else...'\). By the fourth or fifth question, the Product Manager should be giving answers which reflect the deep principles surrounding their problem area.
 
 This exercise is a great way to introduce the problem area each Product Manager in the room is intending to address and to help find common areas of interest.
 
