@@ -1,6 +1,6 @@
 ---
 description: >-
-  Four-hour workshop to learn how to be an effective product owner* during the
+  Four-hour workshop to learn how to be an effective product owner during the
   build sprint and to prepare participants for the collaboration with their tech
   partner.
 ---
