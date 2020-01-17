@@ -26,10 +26,11 @@ description: >-
 ## Required Workshop Material 
 
 * [Definition Workshop - Slide Deck](https://docs.google.com/presentation/d/1RMa6UYjsi9XvO0UPfaa3dc8r1jYNy_-IbNYVv1n3xnU/edit#slide=id.g75dacec10e_0_203)
-* Projector
-* Index cards or Post-It notes
-* Pens
-* White board 
+* projector
+* index cards or Post-it notes
+* pens
+* white board
+* sticky dots
 
 ## Our Homework
 
