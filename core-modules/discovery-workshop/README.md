@@ -23,7 +23,7 @@ description: >-
 
 ## Required Workshop Material 
 
-* [Discovery Workshop - slide deck](https://docs.google.com/presentation/d/1QqggZGpOMUiS7HB4peRRt1j70UgJTZAQMz4rwmRdvFo/edit#slide=id.gcb9a0b074_1_0)
+* [Discovery Workshop - slide deck](https://docs.google.com/presentation/d/1QqggZGpOMUiS7HB4peRRt1j70UgJTZAQMz4rwmRdvFo/edit?usp=sharing)
 * Projector 
 * Post-it notes 
 * Pens
