@@ -34,7 +34,6 @@
 
 ## Supplementary Modules
 
-* [The Burndown Chart](supplementary-modules/the-burndown-chart.md)
 * [Accessibility](supplementary-modules/accessibility.md)
 * [SEO](supplementary-modules/seo.md)
 * [Finding the right tech partner](supplementary-modules/finding-a-tech-partner/README.md)
