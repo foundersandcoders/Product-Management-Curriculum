@@ -7,41 +7,37 @@ description: >-
 
 # Catalyst Product Management Curriculum
 
-Developed by [Gregor](https://github.com/Albadylic), [Emmanuel](https://github.com/emaggy), [Susan](https://github.com/susanX), [Leonie](https://github.com/LaLeonie) and [Dan](https://github.com/sofer) in collaboration with CAST and Catalyst. 
+Developed by Founders and Coders in collaboration with CAST and Catalyst.
 
-## Learning Outcomes 
+The Product Management Curriculum was validated as part of Collaborative Digital Training (May - June 2020).
 
-* Understand the product development cycle from discovery and definition to build phase
-* Understand the role and responsibilities of a Product Manager and a product owner 
-* Understand Scrum and Agile
-* Learn methods and techniques that facilitate user-centred, consensus-driven decision making in Definition, Discovery and Build phase
+## Learning Outcomes
+
+- Understand the product development cycle from discovery and definition to build phase
+- Understand the role and responsibilities of a Product Manager and a product owner
+- Understand Scrum and Agile
+- Learn methods and techniques that facilitate user-centred, consensus-driven decision making in Definition, Discovery and Build phase
 
 ## Goals
 
-* Improve the skills of Product Managers 
-* Build the capacity of a charitable organisations \(and the charity sector\). 
-* Foster collaboration between charitable organisations and Product Managers
+- Improve the skills of Product Managers
+- Build the capacity of a charitable organisations \(and the charity sector\).
+- Foster collaboration between charitable organisations and Product Managers
 
-## Content 
+## Content
 
-The curriculum consist of three **core modules** and four optional **supplementary modules.** The core modules build upon each other and are key to understanding the Product Manager's journey. Upon completion of these workshops, participants will understand the skills required throughout the process of building a digital product. 
+The curriculum consist of three **core modules**. The core modules build upon each other and are key to understanding the Product Manager's journey. Upon completion of these workshops, participants will understand the skills required throughout the process of developing a digital product.
 
-### Core Modules 
+### Core Modules
 
-* [Discovery Workshop ](core-modules/discovery-workshop/)
-* [Definition Workshop ](core-modules/definition-workshop/)
-* [Build Workshop](core-modules/build-workshop/)
+- [Discovery Workshop ](core-modules/discovery-workshop/)
+- [Definition Workshop ](core-modules/definition-workshop/)
+- [Build Workshop](core-modules/build-workshop/)
 
 ### Supplementary Modules
 
-* [Accessibility](supplementary-modules/accessibility.md) 
-* [SEO](supplementary-modules/seo.md)
-* [Finding a tech partner ](supplementary-modules/finding-a-tech-partner/)
+- [Finding a tech partner ](supplementary-modules/finding-a-tech-partner/)
 
-## Resources 
+## Resources
 
 This curriculum uses Tech for Better as its foundation and is complemented by content from Google Design Sprint, The Lean Startup \(Eric Reis\) and Design Kit.
-
-
-
-

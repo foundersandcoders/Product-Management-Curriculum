@@ -8,6 +8,10 @@ description: An overview of common terms that come up during the product develop
 
 Agile product management is an iterative process. It’s based on gathering user feedback and adapting accordingly. It helps product teams reduce waste through iterative work sprints. An Agile process is driven by the completion of stories, each of which provides tangible, demonstrable value to the user/customer/stakeholder.
 
+### Scrum
+
+A widely-used software development method, and a subsection of Agile Development
+
 ### GitHub 
 
 GitHub is a code hosting platform for version control and collaboration. Projects can be hosted on the site and developers and Product Managers can view repositories of code and collaborate on them.
@@ -110,11 +114,4 @@ User testing is the process through which the interface and functions of a websi
 
 Velocity is a measure of the amount of work a Team can tackle during a single Sprint and is the key metric in Scrum. Velocity is calculated by totaling the Story Points for all fully completed User Stories during a sprint. After a few Sprints the velocity of a Scrum Team will most likely be predictable and would allow quite accurate estimation about the time needed until all entries in the Scrum Product Backlog will be completed
 
-An import rule for calculating the velocity is that only stories that are completed at the end of the iteration are counted. Counting partially finished work \(e.g. coding only - test missing\) is strictly forbidden
-
-### 
-
-
-
-
-
+An important rule for calculating the velocity is that only stories that are completed at the end of the iteration are counted. Counting partially finished work \(e.g. coding only - test missing\) is strictly forbidden.
