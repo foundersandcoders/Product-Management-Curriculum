@@ -10,6 +10,8 @@
   - [The Five Whys](core-modules/discovery-workshop/the-five-whys.md)
   - [The Bigger Picture](core-modules/discovery-workshop/the-bigger-picture.md)
   - [Problem Statement](core-modules/discovery-workshop/problem-statement.md)
+  - [How Might We](core-modules/discovery-workshop/how-might-we.md)
+  - [Mapping](core-modules/discovery-workshop/mapping.md)
   - [Assumptions Table](core-modules/discovery-workshop/assumptions-table.md)
   - [Assumptions to Questions](core-modules/discovery-workshop/assumptions-to-questions.md)
   - [Common Areas](core-modules/discovery-workshop/common-areas.md)
