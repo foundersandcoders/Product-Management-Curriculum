@@ -22,6 +22,7 @@ description: >-
 * Thinking about problems broadly early will prevent loss of resources later
 * Encourages early testing and feedback from users
 * Encouraging effective and efficient decision making in a team
+* Tehcniques for generating ideas
 
 ## Required Workshop Material 
 
