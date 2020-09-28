@@ -33,7 +33,7 @@ This workshop is useful for introducing participants to an inquisitive mindset. 
 
 ### Resources
 
-The following resources expand on the history and usefulness of The five Whys:
+The following resources expand on the history and usefulness of The Five Whys:
 
 * [Medium - Learn about The Five Whys Technique](https://medium.com/pm101/learn-about-the-five-whys-technique-78283d75800f)
 * [UX Planet - Design Principle: Root of the Problem](https://uxplanet.org/design-principles-root-of-the-problem-3389991c9e50)
