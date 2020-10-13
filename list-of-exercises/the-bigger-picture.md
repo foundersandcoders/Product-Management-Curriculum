@@ -24,3 +24,9 @@ Four different coloured sets of Post-it notes, one for each category.
 4. Finally, the participants will discuss Inspiration. Here they shall examine technologies or processes that they find inspiring. These could be products which solve the same problem, design aspects they like, and non-digital solutions they find inspiring.
 5. After spending twenty minutes talking about the problem area, the Product Manager should have a strong picture of what their product should do and who will be concerned in creating it.
 6. After each Product Manager has had the chance to explain more about their problem, they shall each present back to the room the idea of another Product Manager - focusing on Goals, Stakeholders, Product/Process Audit and Inspiration. Presenting someone else's idea will help Product Managers empathise with one another as well as to understand how their idea looks to an outsider.
+
+### Resources
+
+The following resources expand on the history and usefulness of The Bigger Picture:
+
+* [UCD Bristol - Notes on using The Bigger Picture - Medium](https://medium.com/@UCDBristol/understanding-the-big-picture-to-improve-decision-making-in-ux-8620d2031443)
