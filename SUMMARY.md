@@ -4,6 +4,7 @@
 - [Facilitator Notes](mentor-notes.md)
 
 ## Case Studies
+
 - [History of Tech for Better](case-studies/history.md)
 - [Programme Case Studies](case-studies/README.md)
   - [Tech vs. Abuse](case-studies/TvA.md)
