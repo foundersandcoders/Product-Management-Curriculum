@@ -2,9 +2,9 @@
 
 - [Catalyst Product Management Curriculum](README.md)
 - [Facilitator Notes](mentor-notes.md)
-- [Supplementary Resources](resources.md)
 
 ## Case Studies
+- [Programme Case Studies](case-studies/README.md)
 - [History of Tech for Better](case-studies/history.md)
 - [Tech vs. Abuse](case-studies/TvA/README.md)
   - [TvA - Programme Structure](case-studies/TvA/TvA.md)
@@ -44,6 +44,11 @@
 
 - [Finding a Tech Partner](extra-resources/finding-a-tech-partner.md)
 - [Glossary](extra-resources/glossary.md)
+
+
+
+
+
 
 ## Core Modules
 
