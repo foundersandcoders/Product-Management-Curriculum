@@ -4,17 +4,27 @@
 - [Facilitator Notes](mentor-notes.md)
 - [Supplementary Resources](resources.md)
 
+## Case Studies
+- [TvA](case-studies/TvA/README.md)
+- [MBL](case-studies/MBL/README.md)
+- [CDT](case-studies/CDT/README.md)
+- [TFB](case-studies/TFB/README.md)
+- [DLP](case-studies/DLP/README.md)
+
+## List of Exercises
+- [The Five Whys](list-of-exercises/the-five-whys.md)
+- [The Bigger Picture](list-of-exercises/the-bigger-picture.md)
+- [Problem Statement](list-of-exercises/problem-statement.md)
+- [How Might We](list-of-exercises/how-might-we.md)
+- [Mapping](list-of-exercises/mapping.md)
+- [Assumptions Table](list-of-exercises/assumptions-table.md)
+- [Assumptions to Questions](list-of-exercises/assumptions-to-questions.md)
+- [Common Areas](list-of-exercises/common-areas.md)
+
 ## Core Modules
 
 - [Discovery Workshop](core-modules/discovery-workshop/README.md)
-  - [The Five Whys](core-modules/discovery-workshop/the-five-whys.md)
-  - [The Bigger Picture](core-modules/discovery-workshop/the-bigger-picture.md)
-  - [Problem Statement](core-modules/discovery-workshop/problem-statement.md)
-  - [How Might We](core-modules/discovery-workshop/how-might-we.md)
-  - [Mapping](core-modules/discovery-workshop/mapping.md)
-  - [Assumptions Table](core-modules/discovery-workshop/assumptions-table.md)
-  - [Assumptions to Questions](core-modules/discovery-workshop/assumptions-to-questions.md)
-  - [Common Areas](core-modules/discovery-workshop/common-areas.md)
+
   - [User Personas](core-modules/discovery-workshop/user-personas/README.md)
     - [Resources](core-modules/discovery-workshop/user-personas/resources.md)
   - [User Research Scripting](core-modules/discovery-workshop/user-research-scripting.md)
