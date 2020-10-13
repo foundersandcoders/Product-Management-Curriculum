@@ -5,12 +5,17 @@
 - [Supplementary Resources](resources.md)
 
 ## Case Studies
-
-- [TvA](case-studies/TvA/README.md)
-- [MBL](case-studies/MBL/README.md)
-- [CDT](case-studies/CDT/README.md)
-- [TFB](case-studies/TFB/README.md)
-- [DLP](case-studies/DLP/README.md)
+- [History of Tech for Better](case-studies/history.md)
+- [Tech vs. Abuse](case-studies/TvA/README.md)
+  - [TvA - Programme Structure](case-studies/TvA/TvA.md)
+- [My Best Life](case-studies/MBL/README.md)
+  - [MBL - Programme Structure](case-studies/MBL/MBL.md)
+- [Collaborative Digital Training](case-studies/CDT/README.md)
+  - [CDT - Programme Structure](case-studies/CDT/CDT.md)
+- [Discovery Learning Programme](case-studies/DLP/README.md)
+- [DLP - Programme Structure](case-studies/DLP/DLP.md)
+- [Tech for Better](case-studies/TFB/README.md)
+  - [T4B - Programme Structure](case-studies/TFB/TFB.md)
 
 ## List of Exercises
 
