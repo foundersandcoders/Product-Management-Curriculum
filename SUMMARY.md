@@ -32,6 +32,7 @@
   - [Creative 8s](list-of-exercises/creative-8s.md)
   - [Solution Sketch](list-of-exercises/solution-sketch.md)
   - [Dot Voting](list-of-exercises/dot-voting.md)
+  - [User Personas](list-of-exercises/user-personas.md)
   - [User Stories](list-of-exercises/user-stories.md)
   - [User Stories Workshop](list-of-exercises/user-stories-workshop.md)
   - [User Journeys](list-of-exercises/user-journeys.md)
