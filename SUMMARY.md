@@ -28,6 +28,7 @@
   - [User Research Scripting](list-of-exercises/user-research-scripting.md)
   - [Identifying Key Insights](list-of-exercises/identifying-key-insights.md)
   - [Inspiration](list-of-exercises/inspiration.md)
+  - [Sketching](list-of-exercises/sketching.md)
   - [Idea Generation](list-of-exercises/idea-generation.md)
   - [Creative 8s](list-of-exercises/creative-8s.md)
   - [Solution Sketch](list-of-exercises/solution-sketch.md)
