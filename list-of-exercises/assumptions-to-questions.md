@@ -31,3 +31,11 @@ Users are comfortable speaking to their phone.
 **Question**
 
 Do you ever use apps which require you to speak to your phone?
+
+### Collaboration
+
+It is helpful to pair up participants to work on this exercise. Having a second pair of eyes can offer a fresh perspective for how to keep the question open ended and avoid bias. We usually ask teams to focus on one table for half the time then switch context to the other Product Manager's assumptions. This may also highlight areas of similarity.
+
+### Facilitator notes
+
+Use your experience of conducting user research as a guide. Are the questions clear? Do they ask what they're meaning too? Are they unbiased? We recommend pairing up organisations who have similar assumptions so that they can understand a different perspective on how to validate those.
