@@ -6,7 +6,9 @@ description: This exercise is intended to encourage divergent thought about a pr
 
 ### Introduction
 
-In this exercise, Product Managers will have to come up with eight new and slightly different ideas in rapid succession. By doing so, they are encouraged to diverge in their thinking as well as to think outside the box.
+In this exercise, Product Managers will have to come up with eight new and distinct ideas in rapid succession. By doing so, they are encouraged to diverge in their thinking as well as to think outside the box.
+
+Requiring the participants to think so fast forces them to produce something and not dwell too much on the possible consequences. This is a really powerful way of encouraging the creative flow and generate ideas that may never have been explored.
 
 ### Required Materials
 
@@ -25,3 +27,5 @@ Paper and pens.
 ### Collaboration
 
 Introducing [dot voting](dot-voting.md)allows for participants to sum up the discussion in a non-verbal manner as well as to provide a record of which aspects were most popular. During the dot voting, the participants are not voting for their favourite panels but are focusing on aspects they find stand out. This process encourages the participants to merge their ideas or take inspiration in order to create a more solid solution.
+
+### Resources

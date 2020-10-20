@@ -38,6 +38,7 @@ Although each Product Manager is drawing the path for their unique personificati
 During mapping it becomes clear where commonality lies in how each group of users will find the digital service, use it and accomplish their goal. Often, disparate groups of users will follow a similar path to accomplish their goal. Designing a path for many groups opens up the accessibility of the service and ensures we're designing for a diverse range of users.
 
 A common target can be found when collaborating which helps organisations to find a shared focus.
+
 ### Resources
 
 The following resources expand on the mapping exercise:
