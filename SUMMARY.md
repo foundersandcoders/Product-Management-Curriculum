@@ -41,6 +41,6 @@
 
 ## Extra resources
 
-- [Finding a Tech Partner](extra-resources/finding-a-tech-partner.md)
+- [Finding a Tech Partner](extra-resources/README.md)
 - [Glossary](extra-resources/glossary.md)
 - [Supplementary Resources](resources.md)
