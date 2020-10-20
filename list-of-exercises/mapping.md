@@ -39,6 +39,10 @@ During mapping it becomes clear where commonality lies in how each group of user
 
 A common target can be found when collaborating which helps organisations to find a shared focus.
 
+### Facilitator notes
+
+This exercise is often really tricky for participants to get their heads round. Sometimes that is down to the complexity of the problem area and other times it is difficult to compact a user journey into a few steps on a map. Going through a **mapping example** of a completely made up problem first, in which they can engage and practise, is really useful to help them get the most out of this exercise.
+
 ### Resources
 
 The following resources expand on the mapping exercise:
