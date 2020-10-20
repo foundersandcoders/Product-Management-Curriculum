@@ -61,7 +61,7 @@ CDT Workshops were held remotely via Zoom due to COVID-19 lockdown. Discovery, D
 
 ## Reflections
 
-* CDT showed that it is possible to find common ground in a small cohort of charity's problem areas, and work collaboratively to design and develop a solution.
+* CDT showed that it is possible to find common ground in a small cohort of charites' problem areas, and work collaboratively to design and develop a solution.
 * The charity leads went from knowing relatively little about digital product design and management to being able to speak and present easily in terms of development and Scrum language. This ability will work well in their favour when applying for future digital funding, or working with a digital partner.
 * Repetition of exercises such as research/testing insights and creating user stories allowed the charity leads to become much more comfortable with this process.
 * With more charites represented in the cohort, finding a common problem area that creates a still useful solution would become much harder. However, as a learning experience, these workshops are well suited.
