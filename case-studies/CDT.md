@@ -13,7 +13,7 @@ Through design sprint discovery and definition workshops, two charities worked t
 
 Product management workshops introduced the roles and responsibilities of a product owner and learning exercises related to product management during development of a digital product.
 
-With a prototype created by Founders and Coders and usability tested by the charities, the final section of the programme involved building an MVP over three development sprints where the charity leads acted as product owners conducting usability testing and taking part in sprint review and planning.
+With a prototype created by Founders and Coders and usability tested by the charities, the final section of the programme involved building an MVP over three development sprints where the charity leads acted as Product Owners conducting usability testing and taking part in sprint review and planning.
 
 CDT Workshops were held remotely via Zoom due to COVID-19 lockdown. Discovery, Definition and Product Management had two workshops of three hours each in the morning. We had previously found that workshops of more than four hours became fatiguing, and energy is generally much lower after lunch. In between workshops tasks such as user research, usability testing, prototyping and development were conducted. In the later development phase sprint review and planning meetings happened each week at around an hour each. Programme playback meetings occured towards the end and shortly after the programme was completed.
 
