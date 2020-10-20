@@ -14,7 +14,7 @@ The Product Management Curriculum was validated as part of **Collaborative Digit
 
 - Understand the product development cycle from discovery and definition to build phase
 - Understand the role and responsibilities of a Product Manager and a product owner
-- Learn methods and techniques that facilitate user-centred, consensus-driven decision making in Definition, Discovery and Build phase
+- Learn methods and techniques that facilitate a user-centred approach to Discovery, Definition, Prototyping and Building. 
 - Understand Scrum and Agile
 
 ## Goals
