@@ -13,10 +13,6 @@
   - [My Best Life](case-studies/MBL.md)
   - [Tech vs. Abuse](case-studies/TvA.md)
 
-
-
-
-
 ## Exercises
 
 - [List of Exercises](list-of-exercises/README.md)
