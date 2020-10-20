@@ -2,7 +2,7 @@
 description: This exercise is intended to encourage divergent thought about a problem.
 ---
 
-# Speedy 8s
+# Zippy 8s
 
 ### Introduction
 
