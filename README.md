@@ -28,7 +28,7 @@ The Product Management Curriculum was validated as part of **Collaborative Digit
 This curriculum is a guide for both **Product Managers** from charitable organisations and **Facilitators** from digital agencies conducting training programmes and sprints.
 
 The section dedicated to **case studies** is a place where you can find the history of this curriculum and the iterations of each programme. This section is useful for understanding the context to certain decisions as each programme is tailored to the needs of the group.
-Another section is a **list of the exercises** where you can find out the workflow of each exercise, the reasons it is useful and some resources to further your understanding.
+In the **list of the exercises** you can find out the workflow of each workshop exercise, the reasons it is useful and some resources to further your understanding.
 In addition to these main sections, there are some **extra resources** in which you will find the glossary and some advice on finding a tech partner.
 
 Facilitator notes will complement this guide with tips and advice about how to conduct the workshops in general and specifically for each exercise.

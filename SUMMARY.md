@@ -13,9 +13,9 @@
   - [Discovery Learning Programme](case-studies/DLP.md)
   - [Tech for Better](case-studies/TFB.md)
 
-## List of Exercises
+## Exercises
 
-- [Exercises](list-of-exercises/README.md)
+- [List of Exercises](list-of-exercises/README.md)
   - [The Five Whys](list-of-exercises/the-five-whys.md)
   - [The Bigger Picture](list-of-exercises/the-bigger-picture.md)
   - [Problem Statement](list-of-exercises/problem-statement.md)
