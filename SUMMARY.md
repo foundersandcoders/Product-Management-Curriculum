@@ -7,11 +7,15 @@
 
 - [History of Tech for Better](case-studies/history.md)
 - [Programme Case Studies](case-studies/README.md)
-  - [Tech vs. Abuse](case-studies/TvA.md)
-  - [My Best Life](case-studies/MBL.md)
-  - [Collaborative Digital Training](case-studies/CDT.md)
-  - [Discovery Learning Programme](case-studies/DLP.md)
   - [Tech for Better](case-studies/TFB.md)
+  - [Discovery Learning Programme](case-studies/DLP.md)
+  - [Collaborative Digital Training](case-studies/CDT.md)
+  - [My Best Life](case-studies/MBL.md)
+  - [Tech vs. Abuse](case-studies/TvA.md)
+
+
+
+
 
 ## Exercises
 
