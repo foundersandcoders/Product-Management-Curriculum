@@ -2,7 +2,7 @@
 description: This exercise is intended to encourage divergent thought about a problem.
 ---
 
-# Rapid 8s
+# Speedy 8s
 
 ### Introduction
 
@@ -20,7 +20,7 @@ Paper and pens.
 4. Set a timer, and after this goes off the participant must move on to the next panel with prompts from the facilitator about the current panel number they should be completing.
 5. In collaboration, it can be really useful to swap sheets and get inspiration from each other just like in [Idea Generation](idea-generation.md). Whether the organisations have distinct focuses or are collaborating on a shared goal, inspiration can be drawn from each participants rapid production of ideas.
 6. The participants should be encouraged to discuss the new sheets they have in front of them.
-7. After some discussion, participants can *dot vote* elements they like best. The sheets should be moved somewhere accessible for everyone to see. It is good to limit the number of dots per person at 3-5. Participants may dot an aspect of their own or can use all their dots on other people's sheets. 
+7. After some discussion, participants can *dot vote* elements they like best. The sheets should be moved somewhere accessible for everyone to see. It is good to limit the number of dots per person at 3-5. Participants may dot an aspect of their own or can use all their dots on other people's sheets.
 
 ### Collaboration
 
