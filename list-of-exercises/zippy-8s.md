@@ -33,3 +33,6 @@ Introducing [dot voting](dot-voting.md)allows for participants to sum up the dis
 Many participants have reported feeling intimidated by this exercise at first, but after completion really understand the value and often say it is their favourite exercise in retrospect. Preparing participants for this can be helpful to ease their worries about what they will produce, but sometimes encouraging them to really trust in the process is all you can do!
 
 ### Resources
+* [Crazy 8s Video by Clear Left](https://youtu.be/KgJCk5sRdoU)
+* [Crazy 8s on Google design sprint kit](https://designsprintkit.withgoogle.com/methodology/phase3-sketch/crazy-8s)
+* [How to: Run a Crazy Eights by Yael Levey](https://www.iamnotmypixels.com/how-to-use-crazy-8s-to-generate-design-ideas/)
