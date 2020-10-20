@@ -30,6 +30,6 @@ Introducing [dot voting](dot-voting.md)allows for participants to sum up the dis
 
 ### Facilitator notes
 
-Many participants have reported feeling really intimidated by this exercise at first, but after completion really understand the value and often state it as their favourite exercise. Preparing participants for this can be helpful to ease their worries about what they will produce, but sometimes encouraging them to really trust in the process is all you can do!
+Many participants have reported feeling intimidated by this exercise at first, but after completion really understand the value and often say it is their favourite exercise in retrospect. Preparing participants for this can be helpful to ease their worries about what they will produce, but sometimes encouraging them to really trust in the process is all you can do!
 
 ### Resources
