@@ -13,7 +13,6 @@
   - [Discovery Learning Programme](case-studies/DLP.md)
   - [Tech for Better](case-studies/TFB.md)
 
-
 ## List of Exercises
 
 - [Exercises](list-of-exercises/README.md)
