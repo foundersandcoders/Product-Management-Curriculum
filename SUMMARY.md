@@ -38,6 +38,7 @@
   - [User Stories Workshop](list-of-exercises/user-stories-workshop.md)
   - [User Journeys](list-of-exercises/user-journeys.md)
   - [User Testing](list-of-exercises/user-testing.md)
+  - [Product Backlog](list-of-exercises/product-backlog-workshop.md)
 
 ## Extra resources
 
