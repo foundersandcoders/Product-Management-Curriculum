@@ -29,3 +29,7 @@ Paper and pens.
 Introducing [dot voting](dot-voting.md)allows for participants to sum up the discussion in a non-verbal manner as well as to provide a record of which aspects were most popular. During the dot voting, the participants are not voting for their favourite panels but are focusing on aspects they find stand out. This process encourages the participants to merge their ideas or take inspiration in order to create a more solid solution.
 
 ### Resources
+
+### Facilitator notes
+
+Many participants have reported feeling really intimidated by this exercise at first, but after completion really understand the value and often state it as their favourite exercise. Preparing participants for this can be helpful to ease their worries about what they will produce, but sometimes encouraging them to really trust in the process is all you can do!
