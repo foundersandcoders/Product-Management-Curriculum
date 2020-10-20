@@ -43,3 +43,4 @@
 
 - [Finding a Tech Partner](extra-resources/finding-a-tech-partner.md)
 - [Glossary](extra-resources/glossary.md)
+- [Supplementary Resources](resources.md)

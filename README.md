@@ -58,4 +58,5 @@ Upon completion of these workshops, participants will have obtained the skills r
 
 ## Resources
 
+- [Supplementary Resources](resoures.md)
 This curriculum uses Tech for Better as its foundation and is complemented by content from Google Design Sprint, The Lean Startup \(Eric Reis\) and Design Kit.
