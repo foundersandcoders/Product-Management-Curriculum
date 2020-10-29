@@ -1,6 +1,6 @@
 # History of Tech for Better
 
-We have been doing pro bono work for nonprofits since 2015. Over that time, our approach to that work has been in a continuous process of development.
+We have been doing work with nonprofits for five years. Over that time, our approach to that work has been in a continuous process of development.
 
 In 2015, we started doing pro bono work for nonprofits and noticed that there was a big expectations mismatch between developer and client that was getting in the way of doing good work. From this, we learned the importance of having clients who understood the application development process.
 
@@ -16,4 +16,4 @@ In March 2020, we collaborated with [New Philanthropy Capital](https://www.think
 
 Then in May 2020, we took our combined learnings from all previous engagements and successfully applied it to the [Collaborative Digital Training](./CDT.md) programme with CAST, consolidating our experience of using digital application design as a way to foster collaborative working between charities.
 
-In October 2020, we were selected to be a digital partner on the [Discovery Learning Programme](DLP.md) alongside nine other digital agencies. From this programme we learnt the value of collaboration amongst digital partners alongside charities. This tailored programmed helped guide nine charities with disparate user groups and levels of digital experience through a programme of practical learning and doing.
+In October 2020, we were selected to be a digital partner on the [Discovery Learning Programme](DLP.md) alongside nine other digital agencies. From this programme we learnt the value of collaboration amongst digital partners alongside charities. This tailored programme helped guide nine charities with disparate user groups and levels of digital experience through a programme of practical learning and doing.
