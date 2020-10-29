@@ -1,6 +1,6 @@
 ---
 description: >-
-  Case Studies of previous structures used by Founders and Coders for service design and product managament programmes and workshops. 
+  Case Studies of previous structures used by Founders and Coders for service design and product management programmes and workshops. 
 ---
 
 # Case Studies
@@ -25,4 +25,3 @@ These case studies show the structures we chose in a few different situations, w
 ## History of Tech for Better
 
 Broadly, these case studies have been programmes under the Founders and Coders 'Tech for Better' umbrella. You can read about the history and development of this wider programme [here](./history.md).
-
