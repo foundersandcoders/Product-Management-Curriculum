@@ -12,6 +12,23 @@ Our proposed engagement on Tech vs Abuse was to deliver an intensive training pr
 
 ## Structure
 
+### Discovery
+* Five Why's
+* The Bigger Picture
+* Problem Statements
+* Assumptions & Validators
+* User Personas
+* User Research Scripting
+
+### Definition
+* Idenitfying Key Insights
+* Inspiration
+* Sketching
+* User Journey and User Stories
+
+### Build
+* Managing a sprint
+
 ---
 
 ## Reflections
