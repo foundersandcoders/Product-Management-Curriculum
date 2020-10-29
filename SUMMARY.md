@@ -13,10 +13,6 @@
   - [My Best Life](case-studies/MBL.md)
   - [Tech vs. Abuse](case-studies/TvA.md)
 
-
-
-
-
 ## Exercises
 
 - [List of Exercises](list-of-exercises/README.md)
@@ -33,7 +29,7 @@
   - [Inspiration](list-of-exercises/inspiration.md)
   - [Sketching](list-of-exercises/sketching.md)
   - [Idea Generation](list-of-exercises/idea-generation.md)
-  - [Creative 8s](list-of-exercises/creative-8s.md)
+  - [Zippy 8s](list-of-exercises/zippy-8s.md)
   - [Solution Sketch](list-of-exercises/solution-sketch.md)
   - [Dot Voting](list-of-exercises/dot-voting.md)
   - [User Personas](list-of-exercises/user-personas.md)
