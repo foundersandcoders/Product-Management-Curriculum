@@ -11,7 +11,7 @@
   - [Discovery Learning Programme](case-studies/DLP.md)
   - [Collaborative Digital Training](case-studies/CDT.md)
   - [My Best Life](case-studies/MBL.md)
-  - [Tech vs. Abuse](case-studies/TvA.md)
+  - [Tech vs. Abuse](case-studies/TvsA.md)
 
 ## Exercises
 
