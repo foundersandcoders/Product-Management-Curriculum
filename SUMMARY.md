@@ -12,6 +12,7 @@
   - [Collaborative Digital Training](case-studies/CDT.md)
   - [My Best Life](case-studies/MBL.md)
   - [Tech vs. Abuse](case-studies/TvsA.md)
+  - [CyberSafeIreland](case-studies/CSI.md)
 
 ## Exercises
 
