@@ -50,3 +50,12 @@ n.b. Each workshop here also had time for sharing between the cohort of 9 charit
 ---
 
 ### Reflections
+
+* Having nine charities in the room provides fantastic opportunities for collaboration. Creating the space for communication across charities provides opportunity to reassure and provide solidarity within the cohort. 
+* Having a sounding board can be useful. Previously, we've found that not having a consistent lead on a project leads to lack of consistency and less value for charities participating in our programmes. However, on DLP, we found that charities who only had one individual attending could feel lost at times. Having a colleague to support would provide value opportunities to discuss ideas and increase confidence. We still believe that there should be at least one lead who attends all workshops, for consistency. See [this article](https://www.thecatalyst.org.uk/blog/the-key-role-of-the-charity-digital-lead) from The Catalyst to explore more. 
+* Solutions should fit to what users use already - if users don't use apps, don't build an app; if they use Facebook, use Facebook.
+* Understanding familiarity with tech early allows us to tailor our programme for all participants. We've found that showing participants how to use Miro and other tools an effective way to keep everyone on board. Providing a quick demonstration of features can save a lot of time in explaining how to use them. 
+* Programme Design should always involve facilitators. In order to deliver an engaging programme in an informed way, facilitators ought to shape the programme. 
+* What makes sense to us, doesn't always to participants. We encourage usability testing of all prototypes and products in order to understand how people unfamiliar interact with what we've created. In the same way, we must consider the understanding of exercises we're familiar with as not obviously intuitive to participants. Explaning things in consise terms without jargon and with patience is key to success.
+* Trust in the process is a key factor in reaching the goal. We've found that participants who second guess or hestitate to engage get less out of programmes than those who jump straight in with enthusiasm, even without knowing the destination. 
+* Learning comes through doing. Participating, engaging and trying things out is the key to getting the most out of programmes. 
