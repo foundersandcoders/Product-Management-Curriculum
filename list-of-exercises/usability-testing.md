@@ -1,6 +1,17 @@
 ---
-description: An explanation of how to conduct User Testing. Comparison with User Research.
+description: An explanation of how to conduct Usability Testing. Comparison with User Research.
 ---
 
-# User Testing
+# Usability Testing
 
+### Introduction
+
+### Required Materials
+
+### Workflow
+
+### Collaboration
+
+### Resources
+
+### Facilitator Notes

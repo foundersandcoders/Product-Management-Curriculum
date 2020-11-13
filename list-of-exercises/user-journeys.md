@@ -6,3 +6,14 @@ description: >-
 
 # User Journeys
 
+### Introduction
+
+### Required Materials
+
+### Workflow
+
+### Collaboration
+
+### Resources
+
+### Facilitator Notes

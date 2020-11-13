@@ -31,3 +31,7 @@ During this section, we encourage participants to work alone for some time and t
 Working alone offers time to do research, find inspiration, and think about the problem. And the pressure of responsibility that comes with working alone often spurs us to our best work. When each person sketches alone, he or she will have time for deep thought.
 
 Coming back together to share ideas encourages movement towards a consensus and convergence of ideas. After discussions have been had on the products of each step, we encouraged silent dot voting as a democratic way to encourage decision-making as well as to provide a record of the decision.
+
+### Resources
+
+### Facilitator Notes

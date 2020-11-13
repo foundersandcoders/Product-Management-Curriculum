@@ -33,6 +33,10 @@ After 15 minutes, go through your user stories together, delete duplicates and r
 
 Prioritise the user stories in an absolute order, with the highest priority at the top. There are no ties; a specific order must be chosen. Open discussion is allowed, but in the end, you as the Product Owner have authority to set the actual priorities. Things might change as you discover new information, and the backlog can be re-ordered — but at any one time it is an absolute ranking.
 
-## Resrouces
+### Collaboration
+
+### Resources
 
 https://www.agilegovleaders.org/academy/product-owner/lesson-3/exercise-1/
+
+### Facilitator Notes
