@@ -1,36 +1,38 @@
 ---
-description: Introduction to user stories and how to write them effectively.
+description: >-
+  Exercise to help product owner become familiar with standard story format and
+  able to write a good user story.
 ---
 
-# User Stories
+# User Stories Workshop
 
-User Stories _\*\*_are the building blocks of Agile projects and represent the fundamental unit of communication and tracking progress. An Agile process is driven by the completion of stories, each of which provides tangible, demonstrable value to the user/customer/stakeholder. A sprint consists of a set of conscientiously prioritised stories.
+This workshop is intended to train Product Owners in writing effective user stories. The goal in writing stories is not to work out details, but to discover the most important goals for the project and to organise a project into discrete, testable chunks.
 
-## Format
+Remember to keep your user stories at the end of this workshop, as you will need them again in the build workshop.
 
-It's best to use a format for each story that identifies **who** the user is, **what** they need, and for what purpose \(the **why**\). Such stories are written in this format:
+## **Required material**
 
-> “As a \_\_\_\_, I need a \_\_\_\_ in order to \_\_\_\_”.
+- Index cards or Post-It notes
+- pens
 
-* **who:**  someone with a particular functional role, who holds a certain title, comes from the perspective of a persona, or embodies the needs and behaviours of a hypothetical user.
-* **what:** details in specific terms the need, feature, or functionality desired by the who. This is what your project team will build into the product or service.
-* **why:** states the value. It presents the needs of your users and customers up front and centre.
+## Workflow
 
-> **Example:** _“As a jazz fan, I need a tuning knob in order to find a jazz station on the radio that I will enjoy listening to."_
+#### 1. Select a goal
 
-## Keys to a valuable user story
+Pair with one or more colleagues and choose a project goal. This goal can be a fictional or real-world goal.
 
-Good user stories follow the INVEST model:
+#### 2. Write user stories
 
-* **Independent** 
-* **Negotiable** 
-* **Valuable:** A story must have value to someone. It must make the product better in some way.  Avoid exotic/one-off stories \(i.e. edge cases\).
-* **Small** 
-* **Testable** 
+Get everyone to write stories for 15 minutes that will advance the project goal. Stories are written on index cards or post-it notes and should follow the correct format: “As a \_\_\__ **, I need a** _\_\__ in order to _\_\_\_”.
 
-“_Clean up the bugs we introduced in the last sprint”_ is NOT a user story because it does not add anything to the product.
+#### 3. Refine user stories
 
-## Prioritising user stories
+After 15 minutes, go through your user stories together, delete duplicates and refine the remaining user stories to make them as self-contained as possible. A self-contained story should be understandable when read back to the user or developer, without a lot of explanation needed.
 
-The high priority stories affect the most users or procure the highest value data. ![icon](https://www.dropbox.com/s/nzmqglv044f01pc/yep.png?raw=1)
+#### 4. Prioritise user stories
 
+Prioritise the user stories in an absolute order, with the highest priority at the top. There are no ties; a specific order must be chosen. Open discussion is allowed, but in the end, you as the Product Owner have authority to set the actual priorities. Things might change as you discover new information, and the backlog can be re-ordered — but at any one time it is an absolute ranking.
+
+## Resrouces
+
+https://www.agilegovleaders.org/academy/product-owner/lesson-3/exercise-1/
