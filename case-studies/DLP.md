@@ -1,60 +1,61 @@
 ---
 description: >-
-  My Best Life (MBL) is a programme run by New Philanthropy Capital (NPC). During Phase 2 of My Best Life, Founders and Coders assisted with the creation and facilitation of design sprint workshops which were completed by a team made up of representatives from NPC, Founders and Coders, charity partners UK Youth, The Mix and Leap Confronting Conflict, and members of UK Youth Voice. 
+  Discovery Learning Programme (DLP) is a programme produced in collaboration with CAST under a larger umbrella project to train charities in digital service design and how to communicate about the development of a digital solution. Our cohort was made up of 9 distinct charities. The organisations followed our bespoke course which culminated in the formation of a solution brief that shaped their applications to the next phase of development.
 ---
 
-# Case Study: My Best Life
+# Case Study: Discovery Learning Programme
 
 ## Introduction
 
-During MBL phase 1, NPC and the MBL charity partners had identified three problem areas faced by young people in reaching youth service provision. Phase 2 aimed to take each of these problem areas as a starting point for a design sprint - to find a digital solution idea for each and create a prototype that can be usability tested and potentially developed further.
+With a combination of theory and collaborative tasks, the **Discovery Learning Programme** was made up of 8 workshops over four weeks both with theoretical presentations and design sprint exercises. In addition to this, our team provided coaching call sessions twice throughout the programme and whenever required by the assigned organisation (3 per facilitator). This was a vital way of furthering the support towards shaping decisions for the application process. We asked the organisations to present their learnings back to the cohort in the second and fourth weeks. On both occasions, the presentations were a big turning point for the participants; in processing the activities this way they were able to reflect on their understanding and share insights that could be adapted for use by their peers.
 
-While the initial plan was to run a design sprint and prototype for each of three issues, the COVID-19 lockdown began as phase 2 did. Some time was lost to transitioning what would have been a face-to-face process into a remote one, and only two design sprints were run by the close of that phase of the programme.
+**DLP** focused on providing an educational space for 9 distinct charity groups to work on identifying their problem areas. The organisations had a general idea of what they needed to evaluate and the exercises in this programme encouraged them to open up the problem area to discover the highest priorities that would form the beginnings of a solution.
 
-The structure of MBL design sprints was based heavily on the [Google Ventures design sprint](https://www.thesprintbook.com/how) as outlined in 'Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days' by Jake Knapp. The materials advised for use during the sprint (whiteboards, sticky notes, sticky dots etc) were replicated remotely using the Miro online whiteboarding tool. 
+By the end of the first week, the participants already had a written script and conducted their user research. Early in the process, this put them in a position where they could make informed decisions about what part of the problem area was critical to their users. Keeping the user centricity at the heart of this programme, research and usability testing was continued throughout ensuring that the solutions were grounded in the needs of the users and what would really make impact.
 
-Google Ventures' (GV) design sprint is perhaps the most popular published design sprint structure and likely the basis of many others. Since its publishing, there have been many adaptations and additions to exercises for particular situations. Although the stock GV sprint was preferred for MBL, Founders and Coders have since used adapted sprints tailored closer to the needs of their specific participants and problem areas.
+Moving forward from the programme, the organisations had three directions they could go in the next phase with Catalyst and The National Lottery Community Fund. Continuing with user research and discovery, using off-the-shelf solutions or a bespoke development - each organisation was guided towards being a position to follow one of these options based on what they had discovered about their problem area and user groups. They were also given the skillset and tools to be able to communicate about digital service design for other funding applications, having learnt the right language and understanding the process of development.
 
 ---
 
 ## Structure
 
 ### Discovery
-* Presenting the challenge
-* Mapping
-* Ask the experts
-* How Might We
-* Theming How Might We Questions
-* Dot voting
-* Placing How Might We questions on the map
-* Choosing a target
+* Problem Statements
+* The Five Whys
+* User Personas
+* Assumptions / Validated if
+* User research scripting
 
 ### Definition
-* Lightning demos
-* 3 part Sketching
-    * Notes & Ideas
-    * Crazy 8s
-    * Solution Sketch
-* Heatmap
-* Dot voting
-* Storyboarding/User Flow
+* User research synthesis
+* HMW
+* Mapping
 
-### Prototyping
-* Create a prototype (figma)
-* Usability testing
-* Usability testing synthesis
-* Usability testing insights
+### Prototype
+* Inspiration
+* 3 part sketching
+    * Ideas
+    * Crazy 8s
+    * Wireflow
+* Choose a prototype
+* Usability test scripting
+
+### Next Steps
+* Journey reflection
+* Application planning
+* Brief scripting for build development
+
+n.b. Each workshop here also had time for sharing between the cohort of 9 charity organisations, or preparing for presentations / testing scripts
 
 ---
 
-## Reflections
+### Reflections
 
-* Initially, workshops were planned to be a full day in length as would be normal for a face-to-face sprint. After a test session, a full day of remote sprint was discovered to be too long, and the programme was restructured to take place over half day workshops. While the length of sprint exercises is malleable to the length of time available, we found that many could be cut significantly while still being productive.
-* The three problem areas we began with focused on youth services issues, but were otherwise very broad. This created a wide range of areas that could be targeted for a digital solution and it became difficult to facilitate a decision with such a range of voices in the room. The GV design sprint recommends appointing a "Decider" who has final say. To keep things democratic this role was avoided for MBL, but in hindsight it may have been useful and is recommended if there is someone on the sprint team who would be appropriate for the role. In lieu of a Decider, dot voting is a good way to make choices. It may be wise with a smaller sprint team to allot more dot votes, otherwise it can be hard to identify a favourite amongst several solution options.
-* Storyboarding is the last exercise in the sprint as suggested by GV and involves drawing frames of the solution step-by-step as the user would see them. As this is a group activity and time consuming it was too difficult to replicate effectively during MBL using remote, online tools. Instead we used a 'user flow' exercise where the equivalent frame is described on a note in text. The frames could show different user journeys through the solution via arrows from note to note.
-* GV recommends creating "how might we" questions during 'Ask the Experts'. However without an expert or with a broader area to ask around, we found it is fine to ask questions loosely around the problem area itself, or if you have done a mapping exercise, ask questions about stages on the map.
-* The 'Notes' part of the sketching exercises can be less useful if you're running a quicker sprint - people usually have the previous exercises still at the forefront of their minds.
-* 'Choosing a Target' can easily become a lengthy discussion if allowed, as can other points where significant choices are to be made. If you're short on time try to avoid the discussion and head straight for dot voting. Useful points or avenues for exploration will have to be left behind, especially with a broad problem area. Make note of them for another time.
-* If you are reflecting as a group on an exercise such as 'How Might We', reading out every note is time consuming and can be boring when the participants could easily read themselves. Instead it may be worth giving a small amount of time to read through a lot of info and reflect personally, then continue discussion from there.
-* Maps should be composed of interactions that a user will do towards their goal (create a post, book an appointment, choose a product etc). How might we questions can be added to the appropriate stages of the map afterwards. Creating a map out of questions to begin with quickly becomes confusing and will make choosing a target area difficult.
-* During MBL we did two full design sprints. For each we created a different map with stages and goal tailored to the problem area. However, really the stages and goal should have been the same for both. A better method may have been to define the maps stages and goal universally, and tailor the how might we questions to the specific problem area. That way, solutions that had benefits towards both problem areas could more easily have been defined, and confusion around the purpose of the exercise could have been alleviated.  
+* Having nine charities in the room provides fantastic opportunities for collaboration. Creating the space for communication across charities provides opportunity to reassure and provide solidarity within the cohort. 
+* Having a sounding board can be useful. Previously, we've found that not having a consistent lead on a project leads to lack of consistency and less value for charities participating in our programmes. However, on DLP, we found that charities who only had one individual attending could feel lost at times. Having a colleague to support would provide value opportunities to discuss ideas and increase confidence. We still believe that there should be at least one lead who attends all workshops, for consistency. See [this article](https://www.thecatalyst.org.uk/blog/the-key-role-of-the-charity-digital-lead) from The Catalyst to explore more. 
+* Solutions needn't always come in the form of a bespoke app. For example, if the current service uses Facebook, and users are shown to be happy with that format, find a solution that still uses Facebook, but improves the service in areas where it is lacking. 
+* Understanding familiarity with tech early allows us to tailor our programme for all participants. We've found that showing participants how to use Miro and other tools an effective way to keep everyone on board. Providing a quick demonstration of features can save a lot of time in explaining how to use them. 
+* Programme Design should always involve facilitators. In order to deliver an engaging programme in an informed way, facilitators ought to shape the programme. 
+* What makes sense to us, doesn't always to participants. We encourage usability testing of all prototypes and products in order to understand how people unfamiliar interact with what we've created. In the same way, we must consider the understanding of exercises we're familiar with as not obviously intuitive to participants. Explaining things in concise terms without jargon and with patience is key to success.
+* Trust in the process is a key factor in reaching the goal. We've found that participants who second guess or hesitate to engage get less out of programmes than those who jump straight in with enthusiasm, even without knowing the destination. 
+* Learning comes through doing. Participating, engaging and trying things out is the key to getting the most out of programmes. 
