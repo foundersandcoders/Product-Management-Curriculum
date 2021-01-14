@@ -61,3 +61,10 @@ Next, we'd ask Product Managers to think more broadly about what they'd like to 
 
 Finally, we bring the table together in a discussion of [common areas](common-areas.md) and whether there are questions which could be shared between Product Managers. If there are, it's great to encourage Product Managers to communicate with each other about the answers to these over Slack before the next workshop.
 
+
+### Collaboration
+
+### Resources
+
+### Facilitator Notes
+

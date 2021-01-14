@@ -12,7 +12,7 @@ Examining the assumptions that a Product Manager is making will encourage them t
 
 ### Required Materials
 
-Paper and Pen.
+A table with two columns
 
 ### Workflow
 

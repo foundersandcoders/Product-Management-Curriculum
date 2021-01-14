@@ -29,13 +29,15 @@ Pen and paper to note the responses.
 
 ### Collaboration
 
-This workshop is useful for introducing participants to an inquisitive mindset. We found that conducting this workshop before [The Bigger Picture](the-bigger-picture.md) increased the level of depth that Questioners went into in the next workshop. When conducting the Five Whys with a larger group, asking all participants to ask one question to the Product Manager will share responsibility and give more unique perspectives. 
+This workshop is useful for introducing participants to an inquisitive mindset. We found that conducting this workshop before [The Bigger Picture](the-bigger-picture.md) increased the level of depth that Questioners went into in the next workshop. When conducting the Five Whys with a larger group, asking all participants to ask one question to the Product Manager will share responsibility and give more unique perspectives.
 
 ### Resources
 
 The following resources expand on the history and usefulness of The Five Whys:
 
-* [The Five Whys on Design Kit](https://www.designkit.org/methods/the-five-whys)
-* [Eric Ries, Author of 'The Lean Startup' and Entrepeneur-in-Residence at Harvard Business School on The Five Whys (video)](https://hbr.org/2012/02/the-5-whys.html)
-* [NHS Improvement (pdf)](https://improvement.nhs.uk/documents/2156/root-cause-analysis-five-whys.pdf)
-* [Buffer - The 5 Whys Process...](https://buffer.com/resources/5-whys-process/)
+- [The Five Whys on Design Kit](https://www.designkit.org/methods/the-five-whys)
+- [Eric Ries, Author of 'The Lean Startup' and Entrepeneur-in-Residence at Harvard Business School on The Five Whys (video)](https://hbr.org/2012/02/the-5-whys.html)
+- [NHS Improvement (pdf)](https://improvement.nhs.uk/documents/2156/root-cause-analysis-five-whys.pdf)
+- [Buffer - The 5 Whys Process...](https://buffer.com/resources/5-whys-process/)
+
+### Facilitator Notes

@@ -26,3 +26,7 @@ _Or for remote delivery:_ Using Miro, or a similar service, create one space wit
 ### Collaboration
 
 Taking time to think individually gives each organisation an opportunity to consider the problems their users' face and the challenges of building something which addresses the needs of these users. Once everyone has had the chance to reflect on the questions they each have - coming back together to theme the Post-its gives a clear indication of where commonalities lie between the organisations involved. The theming also offers a shared space for collaborating - this step of moving notes in physical (or online) space brings forth a spirit of collaboration among the minds of participants.
+
+### Resources
+
+### Facilitator Notes

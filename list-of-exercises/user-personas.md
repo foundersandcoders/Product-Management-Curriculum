@@ -30,13 +30,17 @@ We provide a template for Product Managers to use in generating a user persona.
 
 ### Prompts
 
-* Who are they? Where are they from?
-* What are their goals and motivations?
-* What are their frustrations? How are they feeling?
-* What are their aspirations?
-* Things they like/don’t like
-* Technology - apps and social networks they might use
+- Who are they? Where are they from?
+- What are their goals and motivations?
+- What are their frustrations? How are they feeling?
+- What are their aspirations?
+- Things they like/don’t like
+- Technology - apps and social networks they might use
 
 ### Collaboration
 
 This exercise would usually be conducted by a Product Manager independently or with other members of their organisation. The reason behind this is that they are the experts about their user group. However, we found that when groups of Product Managers read their personas to one another, there was an ability to empathise with the user of another Product Manager. Outsiders are able to offer insights into areas that have been missed out or misrepresentations in the persona.
+
+### Resources
+
+### Facilitator Notes
